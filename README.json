@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2024-09-27T20:35:19Z",
+            "last_commit": "2026-08-13T22:04:26Z",
             "owner": "jerednel",
             "repo": "markov-chain-attribution",
             "stars": 86
@@ -129,10 +129,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T03:30:18Z",
+            "last_commit": "2026-08-14T03:34:56Z",
             "owner": "py-why",
             "repo": "dowhy",
-            "stars": 8262
+            "stars": 8265
           }
         },
         {
@@ -143,10 +143,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T08:34:55Z",
+            "last_commit": "2026-08-14T09:38:02Z",
             "owner": "uber",
             "repo": "causalml",
-            "stars": 5952
+            "stars": 5954
           }
         },
         {
@@ -295,10 +295,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T22:57:08Z",
+            "last_commit": "2026-08-14T09:14:20Z",
             "owner": "statsmodels",
             "repo": "statsmodels",
-            "stars": 11568
+            "stars": 11574
           }
         },
         {
@@ -405,7 +405,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T08:59:59Z",
+            "last_commit": "2026-08-14T09:10:15Z",
             "owner": "pymc-labs",
             "repo": "pymc-marketing",
             "stars": 1224
@@ -495,7 +495,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T09:40:32Z",
+            "last_commit": "2026-08-13T21:47:40Z",
             "owner": "retentioneering",
             "repo": "retentioneering-tools",
             "stars": 913
@@ -560,7 +560,7 @@
             "last_commit": "2026-08-10T07:50:51Z",
             "owner": "recommenders-team",
             "repo": "recommenders",
-            "stars": 21851
+            "stars": 21852
           }
         },
         {
@@ -574,7 +574,7 @@
             "last_commit": "2026-05-30T17:11:41Z",
             "owner": "NicolasHug",
             "repo": "Surprise",
-            "stars": 6804
+            "stars": 6806
           }
         },
         {
@@ -636,7 +636,7 @@
             "last_commit": "2026-08-08T00:29:17Z",
             "owner": "facebook",
             "repo": "prophet",
-            "stars": 20352
+            "stars": 20358
           }
         },
         {
@@ -650,7 +650,7 @@
             "last_commit": "2026-08-12T12:36:43Z",
             "owner": "sktime",
             "repo": "sktime",
-            "stars": 9916
+            "stars": 9920
           }
         },
         {
@@ -664,7 +664,7 @@
             "last_commit": "2026-08-06T10:05:41Z",
             "owner": "unit8co",
             "repo": "darts",
-            "stars": 9489
+            "stars": 9492
           }
         },
         {
@@ -692,7 +692,7 @@
             "last_commit": "2026-07-31T11:26:21Z",
             "owner": "awslabs",
             "repo": "gluonts",
-            "stars": 5224
+            "stars": 5225
           }
         },
         {
@@ -706,7 +706,7 @@
             "last_commit": "2026-08-12T21:51:45Z",
             "owner": "Nixtla",
             "repo": "statsforecast",
-            "stars": 4867
+            "stars": 4866
           }
         },
         {
@@ -720,7 +720,7 @@
             "last_commit": "2025-01-08T20:48:50Z",
             "owner": "ourownstory",
             "repo": "neural_prophet",
-            "stars": 4295
+            "stars": 4296
           }
         },
         {
@@ -731,7 +731,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T02:33:02Z",
+            "last_commit": "2026-08-14T02:36:54Z",
             "owner": "stumpy-dev",
             "repo": "stumpy",
             "stars": 4143
@@ -745,7 +745,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T08:14:11Z",
+            "last_commit": "2026-08-13T12:01:28Z",
             "owner": "tslearn-team",
             "repo": "tslearn",
             "stars": 3168
@@ -824,7 +824,7 @@
             "last_commit": "2026-03-07T01:40:07Z",
             "owner": "CamDavidsonPilon",
             "repo": "lifelines",
-            "stars": 2602
+            "stars": 2604
           }
         },
         {
@@ -835,7 +835,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T16:41:57Z",
+            "last_commit": "2026-08-14T09:40:00Z",
             "owner": "sebp",
             "repo": "scikit-survival",
             "stars": 1316
@@ -917,7 +917,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T15:03:27Z",
+            "last_commit": "2026-08-13T20:09:17Z",
             "owner": "sdv-dev",
             "repo": "SDV",
             "stars": 3543
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T09:48:32.628Z",
+    "last_updated": "2026-08-14T09:44:49.928Z",
     "original_repository": "station-10/awesome-marketing-machine-learning",
     "original_repository_sha": "3e51e6b44bf457b1c7df31ce8f852e6037073e59",
     "enhanced_repository": "enhansome/enhansome-marketing-machine-learning",
