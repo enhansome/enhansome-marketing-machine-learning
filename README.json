@@ -1,948 +1,1028 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Marketing-Attribution-Models",
-          "description": "Heuristic and data driven Multi Touch Attribution.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-28T19:36:34Z",
-            "owner": "DP6",
-            "repo": "Marketing-Attribution-Models",
-            "stars": 368
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mta",
-          "description": "Various data driven Multi Touch Attribution algorithms.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-18T08:18:41Z",
-            "owner": "eeghor",
-            "repo": "mta",
-            "stars": 129
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "markov-chain-attribution",
-          "description": "Leverages a first order Markov chain to reallocate conversions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-13T22:04:26Z",
-            "owner": "jerednel",
-            "repo": "markov-chain-attribution",
-            "stars": 86
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pychattr",
-          "description": "Python implementation of the excellent R ChannelAttribution library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-09-05T20:29:08Z",
-            "owner": "jmwoloso",
-            "repo": "pychattr",
-            "stars": 59
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fractribution",
-          "description": "Data driven MTA by Google.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2022-04-07T05:54:05Z",
-            "owner": "google",
-            "repo": "fractribution",
-            "stars": 58
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "shapley-attribution-model-zhao-naive",
-          "description": "Shapley Value Methods for Attribution Modeling (Naive, Set-based).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-20T23:58:37Z",
-            "owner": "ianchute",
-            "repo": "shapley-attribution",
-            "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ChannelAttribution",
-          "description": "Python and R library that employs a k-order Markov representation to identify structural correlations in customer journey data.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-11-19T09:18:10Z",
-            "owner": "DavideAltomare",
-            "repo": "ChannelAttribution",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "shapley",
-          "description": "Shapley Values For Attribution Modelling.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-04-18T09:37:58Z",
-            "owner": "hartmann-lars",
-            "repo": "shapley",
-            "stars": 6
-          }
-        }
-      ],
-      "title": "Attribution"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "dowhy",
-          "description": "Causal Inference that supports explicit modeling and testing of causal assumptions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T02:32:50Z",
-            "owner": "py-why",
-            "repo": "dowhy",
-            "stars": 8268
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "causalml",
-          "description": "Uplift modeling and causal inference with ML by Uber.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T10:42:56Z",
-            "owner": "uber",
-            "repo": "causalml",
-            "stars": 5957
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CausalImpact",
-          "description": "(R) Causal Inference using Bayesian structural time-series models by Google.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-03-31T04:46:51Z",
-            "owner": "google",
-            "repo": "CausalImpact",
-            "stars": 1853
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CausalPy",
-          "description": "Causal Inference & Synthetic Control. Supports fitting with and models.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T08:02:38Z",
-            "owner": "pymc-labs",
-            "repo": "CausalPy",
-            "stars": 1178
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "scikit-uplift",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Marketing-Attribution-Models",
+              "description": "Heuristic and data driven Multi Touch Attribution.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 236500868,
+                "language": "Python",
+                "last_commit": "2026-04-28T19:36:34Z",
+                "owner": "DP6",
+                "repo": "Marketing-Attribution-Models",
+                "stars": 368
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mta",
+              "description": "Various data driven Multi Touch Attribution algorithms.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 155513940,
+                "language": "Python",
+                "last_commit": "2026-06-18T08:18:41Z",
+                "owner": "eeghor",
+                "repo": "mta",
+                "stars": 129
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "markov-chain-attribution",
+              "description": "Leverages a first order Markov chain to reallocate conversions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 141180079,
+                "language": "Python",
+                "last_commit": "2026-08-13T22:04:26Z",
+                "owner": "jerednel",
+                "repo": "markov-chain-attribution",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pychattr",
+              "description": "Python implementation of the excellent R ChannelAttribution library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140499538,
+                "language": "Python",
+                "last_commit": "2022-09-05T20:29:08Z",
+                "owner": "jmwoloso",
+                "repo": "pychattr",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fractribution",
+              "description": "Data driven MTA by Google.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 289190087,
+                "language": "Python",
+                "last_commit": "2022-04-07T05:54:05Z",
+                "owner": "google",
+                "repo": "fractribution",
+                "stars": 58
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "shapley-attribution-model-zhao-naive",
+              "description": "Shapley Value Methods for Attribution Modeling (Naive, Set-based).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 225305843,
+                "language": "Python",
+                "last_commit": "2026-04-20T23:58:37Z",
+                "owner": "ianchute",
+                "repo": "shapley-attribution",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChannelAttribution",
+              "description": "Python and R library that employs a k-order Markov representation to identify structural correlations in customer journey data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 265841600,
+                "language": "C++",
+                "last_commit": "2025-11-19T09:18:10Z",
+                "owner": "DavideAltomare",
+                "repo": "ChannelAttribution",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "shapley",
+              "description": "Shapley Values For Attribution Modelling.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 181204644,
+                "language": "Python",
+                "last_commit": "2019-04-18T09:37:58Z",
+                "owner": "hartmann-lars",
+                "repo": "shapley",
+                "stars": 6
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-10-21T16:05:46Z",
-            "owner": "maks-sh",
-            "repo": "scikit-uplift",
-            "stars": 812
-          }
+          "node_type": "group",
+          "title": "Attribution"
         },
         {
-          "node_type": "item",
-          "title": "tfcausalimpact",
-          "description": "Google's CausalImpact Algorithm implemented on top of TensorFlow Probability.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-01-13T14:42:12Z",
-            "owner": "WillianFuks",
-            "repo": "tfcausalimpact",
-            "stars": 675
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "upliftml",
-          "description": "Scalable unconstrained and constrained uplift modeling from experimental data using PySpark and H20.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-03-23T16:50:16Z",
-            "owner": "bookingcom",
-            "repo": "upliftml",
-            "stars": 334
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SyntheticControlMethods",
-          "description": "Causal inference using Synthetic Control.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-01-25T04:32:16Z",
-            "owner": "OscarEngelbrektson",
-            "repo": "SyntheticControlMethods",
-            "stars": 195
-          }
-        }
-      ],
-      "title": "Causal Inference"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "lifetimes",
-          "description": "CLV and Churn modelling. Deprecated and incorporated into pymc-marketing.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2024-06-28T14:10:21Z",
-            "owner": "CamDavidsonPilon",
-            "repo": "lifetimes",
-            "stars": 1477
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "btyd",
-          "description": "Buy Till You Die and CLV statistical models in Python.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2024-05-14T19:57:56Z",
-            "owner": "ColtAllen",
-            "repo": "btyd",
-            "stars": 118
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lucius-ltv",
-          "description": "CLV for subscriptions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-03-07T17:34:11Z",
-            "owner": "plexagon",
-            "repo": "lucius-ltv",
-            "stars": 11
-          }
-        }
-      ],
-      "title": "Churn / CLV"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "statsmodels",
-          "description": "Statistical modeling including time series and econometrics.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T08:56:44Z",
-            "owner": "statsmodels",
-            "repo": "statsmodels",
-            "stars": 11577
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "EconML",
-          "description": "AI, Econometrics and Causal Inference modelling.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-08-17T19:10:59Z",
-            "owner": "py-why",
-            "repo": "EconML",
-            "stars": 4755
-          }
-        }
-      ],
-      "title": "Econometrics"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "GeoLift",
-          "description": "Geo Experimentation methodology based on Synthetic Control Methods used to measure lift of ad campaigns by Facebook.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-06-30T09:54:38Z",
-            "owner": "facebookincubator",
-            "repo": "GeoLift",
-            "stars": 262
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GeoexperimentsResearch",
-          "description": "(R) Open-source implementation of the geo experiment analysis methodology developed at Google (Archived)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "R",
-            "last_commit": "2019-10-03T18:11:43Z",
-            "owner": "google",
-            "repo": "GeoexperimentsResearch",
-            "stars": 142
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "matched_markets",
-          "description": "Time-Based regression matched markets approach for designing Geo Experiments by Google.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-08-21T17:30:13Z",
-            "owner": "google",
-            "repo": "matched_markets",
-            "stars": 102
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "trimmed_match",
-          "description": "Ad effectiveness through the design and analysis of randomized Geo Experiments by Google.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-06-01T14:52:13Z",
-            "owner": "google",
-            "repo": "trimmed_match",
-            "stars": 72
-          }
-        }
-      ],
-      "title": "Geo Experimentation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Robyn",
-          "description": "(R) Bayesian Media Mix Models by Facebook.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-01-26T13:18:56Z",
-            "owner": "facebookexperimental",
-            "repo": "Robyn",
-            "stars": 1502
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pymc-marketing",
-          "description": "Bayesian Media Mix, Adstock, Saturation Customer Lifetime Value & Churn models.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T08:37:46Z",
-            "owner": "pymc-labs",
-            "repo": "pymc-marketing",
-            "stars": 1227
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lightweight-mmm",
-          "description": "Bayesian Media Mix Models by Google.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2025-06-17T15:20:20Z",
-            "owner": "google",
-            "repo": "lightweight_mmm",
-            "stars": 1052
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mmm-stan",
-          "description": "Multiplicative Media Media Mix Model.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2022-05-28T05:45:02Z",
-            "owner": "sibylhe",
-            "repo": "mmm_stan",
-            "stars": 404
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mamimo",
-          "description": "Small Media Mix Models designed to be used in conjunction with ML libraries (e.g. SKL)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-07-30T08:44:04Z",
-            "owner": "RobKuebler",
-            "repo": "mamimo",
-            "stars": 74
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BayesianMMM",
-          "description": "Bayesian Media Mix mMdelling with shape and carryover effect.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2021-12-07T12:14:09Z",
-            "owner": "leopoldavezac",
-            "repo": "BayesianMMM",
-            "stars": 66
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dammmdatagen",
-          "description": "(R) Media Mix Modeling Data Generator.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2021-12-27T16:26:06Z",
-            "owner": "DoktorMike",
-            "repo": "dammmdatagen",
-            "stars": 44
-          }
-        }
-      ],
-      "title": "Media / Marketing Mix Models"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "retentioneering-tools",
-          "description": "Retentioneering: product analytics, data-driven customer journey map optimization, marketing analytics, web analytics, transaction analytics, graph visualization, and behavioral segmentation",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-13T21:47:40Z",
-            "owner": "retentioneering",
-            "repo": "retentioneering-tools",
-            "stars": 913
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ecommercetools",
-          "description": "Data science toolkit for those working in technical ecommerce, marketing science, and technical seo and includes a wide range of features to aid analysis and model building.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-01-29T09:34:58Z",
-            "owner": "practical-data-science",
-            "repo": "ecommercetools",
-            "stars": 280
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "amazon-denseclus",
-          "description": "Python module for clustering both categorical and numerical data using UMAP and HDBSCAN by Amazon.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-07-29T22:54:49Z",
-            "owner": "awslabs",
-            "repo": "amazon-denseclus",
-            "stars": 100
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rfm",
-          "description": "RFM Analysis and Customer Segmentation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-03-02T16:40:59Z",
-            "owner": "sonwanesuresh95",
-            "repo": "rfm",
-            "stars": 41
-          }
-        }
-      ],
-      "title": "Personalisation / Segmentation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "recommenders",
-          "description": "Best Practices on Recommendation Systems by Microsoft.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T16:26:46Z",
-            "owner": "recommenders-team",
-            "repo": "recommenders",
-            "stars": 21861
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Surprise",
-          "description": "Scikit for building and analyzing recommender systems that deal with explicit rating data.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-30T17:11:41Z",
-            "owner": "NicolasHug",
-            "repo": "Surprise",
-            "stars": 6805
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lightfm",
-          "description": "Implementation of LightFM, a hybrid recommendation algorithm.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-07-24T18:48:54Z",
-            "owner": "lyst",
-            "repo": "lightfm",
-            "stars": 5111
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "recmetrics",
-          "description": "A library of metrics for evaluating recommender systems",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-01-11T20:34:53Z",
-            "owner": "statisticianinstilettos",
-            "repo": "recmetrics",
-            "stars": 580
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "openrec",
-          "description": "Open-source and modular library for neural network-inspired recommendation algorithms.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-03-24T23:54:19Z",
-            "owner": "ylongqi",
-            "repo": "openrec",
-            "stars": 417
-          }
-        }
-      ],
-      "title": "Recommendation Systems"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "prophet",
-          "description": "Additive time series modelling by Facebook.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-15T03:38:56Z",
-            "owner": "facebook",
-            "repo": "prophet",
-            "stars": 20363
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sktime",
-          "description": "A unified framework for ML with Time Eeries.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T04:16:20Z",
-            "owner": "sktime",
-            "repo": "sktime",
-            "stars": 9937
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "darts",
-          "description": "Python library for user-friendly forecasting and anomaly detection on time series built using SKL conventions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-06T10:05:41Z",
-            "owner": "unit8co",
-            "repo": "darts",
-            "stars": 9496
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tsfresh",
-          "description": "Time Series Feature extraction based on scalable hypothesis tests.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-07-06T01:28:19Z",
-            "owner": "blue-yonder",
-            "repo": "tsfresh",
-            "stars": 9291
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gluonts",
-          "description": "Probabilistic time series modeling, focusing on deep learning based models, based on PyTorch and MXNet.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-31T11:26:21Z",
-            "owner": "awslabs",
-            "repo": "gluonts",
-            "stars": 5227
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "statsforecast",
-          "description": "Lightning ⚡️ fast forecasting with statistical and econometric models.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T21:15:35Z",
-            "owner": "Nixtla",
-            "repo": "statsforecast",
-            "stars": 4868
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "neural_prophet",
-          "description": "Framework for interpretable time series forecasting built on PyTorch.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-01-08T20:48:50Z",
-            "owner": "ourownstory",
-            "repo": "neural_prophet",
-            "stars": 4294
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "stumpy",
-          "description": "STUMPY computes something called the matrix profile, which is just an academic way of saying \"for every subsequence automatically identify its corresponding nearest-neighbor\"",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T00:30:11Z",
-            "owner": "stumpy-dev",
-            "repo": "stumpy",
-            "stars": 4147
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tslearn",
-          "description": "The machine learning toolkit for time series analysis in Python.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T08:06:18Z",
-            "owner": "tslearn-team",
-            "repo": "tslearn",
-            "stars": 3170
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "orbit",
-          "description": "Python package for Bayesian time series forecasting and inference by Uber.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-22T22:21:47Z",
-            "owner": "uber",
-            "repo": "orbit",
-            "stars": 2066
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pmdarima",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "dowhy",
+              "description": "Causal Inference that supports explicit modeling and testing of causal assumptions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 135584946,
+                "language": "Python",
+                "last_commit": "2026-08-19T02:21:52Z",
+                "owner": "py-why",
+                "repo": "dowhy",
+                "stars": 8271
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "causalml",
+              "description": "Uplift modeling and causal inference with ML by Uber.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 195914972,
+                "language": "Python",
+                "last_commit": "2026-08-17T10:42:56Z",
+                "owner": "uber",
+                "repo": "causalml",
+                "stars": 5961
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CausalImpact",
+              "description": "(R) Causal Inference using Bayesian structural time-series models by Google.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22765467,
+                "language": "R",
+                "last_commit": "2026-03-31T04:46:51Z",
+                "owner": "google",
+                "repo": "CausalImpact",
+                "stars": 1853
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CausalPy",
+              "description": "Causal Inference & Synthetic Control. Supports fitting with and models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 539537904,
+                "language": "Python",
+                "last_commit": "2026-08-19T01:48:25Z",
+                "owner": "pymc-labs",
+                "repo": "CausalPy",
+                "stars": 1179
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "scikit-uplift",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 229347545,
+                "language": "Python",
+                "last_commit": "2023-10-21T16:05:46Z",
+                "owner": "maks-sh",
+                "repo": "scikit-uplift",
+                "stars": 812
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tfcausalimpact",
+              "description": "Google's CausalImpact Algorithm implemented on top of TensorFlow Probability.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 288209400,
+                "language": "Python",
+                "last_commit": "2025-01-13T14:42:12Z",
+                "owner": "WillianFuks",
+                "repo": "tfcausalimpact",
+                "stars": 675
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "upliftml",
+              "description": "Scalable unconstrained and constrained uplift modeling from experimental data using PySpark and H20.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 379548730,
+                "language": "Python",
+                "last_commit": "2023-03-23T16:50:16Z",
+                "owner": "bookingcom",
+                "repo": "upliftml",
+                "stars": 334
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SyntheticControlMethods",
+              "description": "Causal inference using Synthetic Control.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 275336592,
+                "language": "Python",
+                "last_commit": "2024-01-25T04:32:16Z",
+                "owner": "OscarEngelbrektson",
+                "repo": "SyntheticControlMethods",
+                "stars": 195
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-11-17T16:09:28Z",
-            "owner": "alkaline-ml",
-            "repo": "pmdarima",
-            "stars": 1734
-          }
+          "node_type": "group",
+          "title": "Causal Inference"
         },
         {
-          "node_type": "item",
-          "title": "temporian",
-          "description": "Temporian is an open-source Python library for preprocessing ⚡ and feature engineering 🛠 temporal data 📈 for machine learning applications 🤖.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-10-29T16:34:31Z",
-            "owner": "google",
-            "repo": "temporian",
-            "stars": 713
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "lifetimes",
+              "description": "CLV and Churn modelling. Deprecated and incorporated into pymc-marketing.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 28577939,
+                "language": "Python",
+                "last_commit": "2024-06-28T14:10:21Z",
+                "owner": "CamDavidsonPilon",
+                "repo": "lifetimes",
+                "stars": 1477
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "btyd",
+              "description": "Buy Till You Die and CLV statistical models in Python.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 457011033,
+                "language": "Python",
+                "last_commit": "2024-05-14T19:57:56Z",
+                "owner": "ColtAllen",
+                "repo": "btyd",
+                "stars": 118
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lucius-ltv",
+              "description": "CLV for subscriptions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 439413572,
+                "language": "Python",
+                "last_commit": "2023-03-07T17:34:11Z",
+                "owner": "plexagon",
+                "repo": "lucius-ltv",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Churn / CLV"
         },
         {
-          "node_type": "item",
-          "title": "tbats",
-          "description": "BATS and TBATS time series forecasting",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-04-17T10:22:27Z",
-            "owner": "intive-DataScience",
-            "repo": "tbats",
-            "stars": 183
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "statsmodels",
+              "description": "Statistical modeling including time series and econometrics.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1885237,
+                "language": "Python",
+                "last_commit": "2026-08-19T05:23:35Z",
+                "owner": "statsmodels",
+                "repo": "statsmodels",
+                "stars": 11580
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EconML",
+              "description": "AI, Econometrics and Causal Inference modelling.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 131646318,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-17T19:10:59Z",
+                "owner": "py-why",
+                "repo": "EconML",
+                "stars": 4756
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Econometrics"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GeoLift",
+              "description": "Geo Experimentation methodology based on Synthetic Control Methods used to measure lift of ad campaigns by Facebook.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 406931771,
+                "language": "R",
+                "last_commit": "2026-06-30T09:54:38Z",
+                "owner": "facebookincubator",
+                "repo": "GeoLift",
+                "stars": 262
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GeoexperimentsResearch",
+              "description": "(R) Open-source implementation of the geo experiment analysis methodology developed at Google (Archived)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 85719344,
+                "language": "R",
+                "last_commit": "2019-10-03T18:11:43Z",
+                "owner": "google",
+                "repo": "GeoexperimentsResearch",
+                "stars": 142
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "matched_markets",
+              "description": "Time-Based regression matched markets approach for designing Geo Experiments by Google.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 309912962,
+                "language": "Python",
+                "last_commit": "2025-08-21T17:30:13Z",
+                "owner": "google",
+                "repo": "matched_markets",
+                "stars": 102
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "trimmed_match",
+              "description": "Ad effectiveness through the design and analysis of randomized Geo Experiments by Google.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 263527941,
+                "language": "Python",
+                "last_commit": "2023-06-01T14:52:13Z",
+                "owner": "google",
+                "repo": "trimmed_match",
+                "stars": 72
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Geo Experimentation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Robyn",
+              "description": "(R) Bayesian Media Mix Models by Facebook.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 260182729,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-01-26T13:18:56Z",
+                "owner": "facebookexperimental",
+                "repo": "Robyn",
+                "stars": 1503
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pymc-marketing",
+              "description": "Bayesian Media Mix, Adstock, Saturation Customer Lifetime Value & Churn models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 467144767,
+                "language": "Python",
+                "last_commit": "2026-08-19T08:11:18Z",
+                "owner": "pymc-labs",
+                "repo": "pymc-marketing",
+                "stars": 1228
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lightweight-mmm",
+              "description": "Bayesian Media Mix Models by Google.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 457695550,
+                "language": "Python",
+                "last_commit": "2025-06-17T15:20:20Z",
+                "owner": "google",
+                "repo": "lightweight_mmm",
+                "stars": 1052
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mmm-stan",
+              "description": "Multiplicative Media Media Mix Model.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 317177499,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-05-28T05:45:02Z",
+                "owner": "sibylhe",
+                "repo": "mmm_stan",
+                "stars": 404
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mamimo",
+              "description": "Small Media Mix Models designed to be used in conjunction with ML libraries (e.g. SKL)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 492336048,
+                "language": "Python",
+                "last_commit": "2023-07-30T08:44:04Z",
+                "owner": "RobKuebler",
+                "repo": "mamimo",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BayesianMMM",
+              "description": "Bayesian Media Mix mMdelling with shape and carryover effect.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 364604619,
+                "language": "HTML",
+                "last_commit": "2021-12-07T12:14:09Z",
+                "owner": "leopoldavezac",
+                "repo": "BayesianMMM",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dammmdatagen",
+              "description": "(R) Media Mix Modeling Data Generator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 110481972,
+                "language": "R",
+                "last_commit": "2021-12-27T16:26:06Z",
+                "owner": "DoktorMike",
+                "repo": "dammmdatagen",
+                "stars": 44
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Media / Marketing Mix Models"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "retentioneering-tools",
+              "description": "Retentioneering: product analytics, data-driven customer journey map optimization, marketing analytics, web analytics, transaction analytics, graph visualization, and behavioral segmentation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194870085,
+                "language": "Python",
+                "last_commit": "2026-08-19T09:03:12Z",
+                "owner": "retentioneering",
+                "repo": "retentioneering-tools",
+                "stars": 913
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ecommercetools",
+              "description": "Data science toolkit for those working in technical ecommerce, marketing science, and technical seo and includes a wide range of features to aid analysis and model building.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 345148349,
+                "language": "Python",
+                "last_commit": "2024-01-29T09:34:58Z",
+                "owner": "practical-data-science",
+                "repo": "ecommercetools",
+                "stars": 280
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "amazon-denseclus",
+              "description": "Python module for clustering both categorical and numerical data using UMAP and HDBSCAN by Amazon.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 392481310,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-07-29T22:54:49Z",
+                "owner": "awslabs",
+                "repo": "amazon-denseclus",
+                "stars": 100
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rfm",
+              "description": "RFM Analysis and Customer Segmentation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 458799470,
+                "language": "Python",
+                "last_commit": "2022-03-02T16:40:59Z",
+                "owner": "sonwanesuresh95",
+                "repo": "rfm",
+                "stars": 41
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Personalisation / Segmentation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "recommenders",
+              "description": "Best Practices on Recommendation Systems by Microsoft.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 149430917,
+                "language": "Python",
+                "last_commit": "2026-08-19T02:03:47Z",
+                "owner": "recommenders-team",
+                "repo": "recommenders",
+                "stars": 21861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Surprise",
+              "description": "Scikit for building and analyzing recommender systems that deal with explicit rating data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71709976,
+                "language": "Python",
+                "last_commit": "2026-05-30T17:11:41Z",
+                "owner": "NicolasHug",
+                "repo": "Surprise",
+                "stars": 6806
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lightfm",
+              "description": "Implementation of LightFM, a hybrid recommendation algorithm.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39940111,
+                "language": "Python",
+                "last_commit": "2024-07-24T18:48:54Z",
+                "owner": "lyst",
+                "repo": "lightfm",
+                "stars": 5112
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "recmetrics",
+              "description": "A library of metrics for evaluating recommender systems",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 153137640,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-01-11T20:34:53Z",
+                "owner": "statisticianinstilettos",
+                "repo": "recmetrics",
+                "stars": 580
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "openrec",
+              "description": "Open-source and modular library for neural network-inspired recommendation algorithms.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112496759,
+                "language": "Python",
+                "last_commit": "2023-03-24T23:54:19Z",
+                "owner": "ylongqi",
+                "repo": "openrec",
+                "stars": 417
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Recommendation Systems"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "prophet",
+              "description": "Additive time series modelling by Facebook.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73872834,
+                "language": "Python",
+                "last_commit": "2026-08-15T03:38:56Z",
+                "owner": "facebook",
+                "repo": "prophet",
+                "stars": 20364
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sktime",
+              "description": "A unified framework for ML with Time Eeries.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156401841,
+                "language": "Python",
+                "last_commit": "2026-08-18T23:06:08Z",
+                "owner": "sktime",
+                "repo": "sktime",
+                "stars": 9946
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "darts",
+              "description": "Python library for user-friendly forecasting and anomaly detection on time series built using SKL conventions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 148657183,
+                "language": "Python",
+                "last_commit": "2026-08-06T10:05:41Z",
+                "owner": "unit8co",
+                "repo": "darts",
+                "stars": 9498
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tsfresh",
+              "description": "Time Series Feature extraction based on scalable hypothesis tests.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71996613,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-07-06T01:28:19Z",
+                "owner": "blue-yonder",
+                "repo": "tsfresh",
+                "stars": 9292
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gluonts",
+              "description": "Probabilistic time series modeling, focusing on deep learning based models, based on PyTorch and MXNet.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186872119,
+                "language": "Python",
+                "last_commit": "2026-07-31T11:26:21Z",
+                "owner": "awslabs",
+                "repo": "gluonts",
+                "stars": 5227
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "statsforecast",
+              "description": "Lightning ⚡️ fast forecasting with statistical and econometric models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 431319532,
+                "language": "Python",
+                "last_commit": "2026-08-17T21:15:35Z",
+                "owner": "Nixtla",
+                "repo": "statsforecast",
+                "stars": 4874
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "neural_prophet",
+              "description": "Framework for interpretable time series forecasting built on PyTorch.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 261086130,
+                "language": "Python",
+                "last_commit": "2025-01-08T20:48:50Z",
+                "owner": "ourownstory",
+                "repo": "neural_prophet",
+                "stars": 4294
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "stumpy",
+              "description": "STUMPY computes something called the matrix profile, which is just an academic way of saying \"for every subsequence automatically identify its corresponding nearest-neighbor\"",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 184809315,
+                "language": "Python",
+                "last_commit": "2026-08-18T00:30:11Z",
+                "owner": "stumpy-dev",
+                "repo": "stumpy",
+                "stars": 4147
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tslearn",
+              "description": "The machine learning toolkit for time series analysis in Python.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90264407,
+                "language": "Python",
+                "last_commit": "2026-08-18T15:20:07Z",
+                "owner": "tslearn-team",
+                "repo": "tslearn",
+                "stars": 3170
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "orbit",
+              "description": "Python package for Bayesian time series forecasting and inference by Uber.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 232388106,
+                "language": "Python",
+                "last_commit": "2026-05-22T22:21:47Z",
+                "owner": "uber",
+                "repo": "orbit",
+                "stars": 2066
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pmdarima",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86715491,
+                "language": "Python",
+                "last_commit": "2025-11-17T16:09:28Z",
+                "owner": "alkaline-ml",
+                "repo": "pmdarima",
+                "stars": 1734
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "temporian",
+              "description": "Temporian is an open-source Python library for preprocessing ⚡ and feature engineering 🛠 temporal data 📈 for machine learning applications 🤖.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 590126294,
+                "language": "Python",
+                "last_commit": "2025-10-29T16:34:31Z",
+                "owner": "google",
+                "repo": "temporian",
+                "stars": 713
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tbats",
+              "description": "BATS and TBATS time series forecasting",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 162722338,
+                "language": "Python",
+                "last_commit": "2023-04-17T10:22:27Z",
+                "owner": "intive-DataScience",
+                "repo": "tbats",
+                "stars": 183
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Time Series"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "lifelines",
+              "description": "lifelines is a pure Python implementation of the best parts of survival analysis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12420595,
+                "language": "Python",
+                "last_commit": "2026-03-07T01:40:07Z",
+                "owner": "CamDavidsonPilon",
+                "repo": "lifelines",
+                "stars": 2605
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "scikit-survival",
+              "description": "Survival analysis built on top of scikit-learn.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77409504,
+                "language": "Python",
+                "last_commit": "2026-08-16T11:33:58Z",
+                "owner": "sebp",
+                "repo": "scikit-survival",
+                "stars": 1319
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pysurvival",
+              "description": "An open source python package for Survival Analysis modeling.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 178483050,
+                "language": "HTML",
+                "last_commit": "2024-03-11T19:40:26Z",
+                "owner": "square",
+                "repo": "pysurvival",
+                "stars": 371
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Survival Analysis"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SparseSC",
+              "description": "Sparse Synthetic Control Models in Python by Microsoft.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151165530,
+                "language": "Python",
+                "last_commit": "2024-03-26T18:53:02Z",
+                "owner": "microsoft",
+                "repo": "SparseSC",
+                "stars": 90
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pysyncon",
+              "description": "Multiple Synthetic Control implementations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 580586322,
+                "language": "Python",
+                "last_commit": "2026-01-04T22:47:18Z",
+                "owner": "sdfordham",
+                "repo": "pysyncon",
+                "stars": 83
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "scpi",
+              "description": "Provides Python, R and Stata implementations of estimation and inference procedures for synthetic control methods.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 390752624,
+                "language": "R",
+                "last_commit": "2026-08-14T19:08:37Z",
+                "owner": "nppackages",
+                "repo": "scpi",
+                "stars": 45
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Synthetic Control"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SDV",
+              "description": "Python library designed to be your one-stop shop for creating tabular synthetic data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133060053,
+                "language": "Python",
+                "last_commit": "2026-08-18T20:49:54Z",
+                "owner": "sdv-dev",
+                "repo": "SDV",
+                "stars": 3546
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Decoy",
+              "description": "Synthetic Data Generator using DuckDB at its core.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 665017082,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-06-22T08:37:14Z",
+                "owner": "EqualExperts",
+                "repo": "decoy",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Synthetic Data"
         }
       ],
-      "title": "Time Series"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "lifelines",
-          "description": "lifelines is a pure Python implementation of the best parts of survival analysis.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-07T01:40:07Z",
-            "owner": "CamDavidsonPilon",
-            "repo": "lifelines",
-            "stars": 2605
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "scikit-survival",
-          "description": "Survival analysis built on top of scikit-learn.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T11:33:58Z",
-            "owner": "sebp",
-            "repo": "scikit-survival",
-            "stars": 1319
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pysurvival",
-          "description": "An open source python package for Survival Analysis modeling.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2024-03-11T19:40:26Z",
-            "owner": "square",
-            "repo": "pysurvival",
-            "stars": 371
-          }
-        }
-      ],
-      "title": "Survival Analysis"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "SparseSC",
-          "description": "Sparse Synthetic Control Models in Python by Microsoft.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-26T18:53:02Z",
-            "owner": "microsoft",
-            "repo": "SparseSC",
-            "stars": 90
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pysyncon",
-          "description": "Multiple Synthetic Control implementations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-04T22:47:18Z",
-            "owner": "sdfordham",
-            "repo": "pysyncon",
-            "stars": 83
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "scpi",
-          "description": "Provides Python, R and Stata implementations of estimation and inference procedures for synthetic control methods.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-08-14T19:08:37Z",
-            "owner": "nppackages",
-            "repo": "scpi",
-            "stars": 45
-          }
-        }
-      ],
-      "title": "Synthetic Control"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "SDV",
-          "description": "Python library designed to be your one-stop shop for creating tabular synthetic data.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T21:11:19Z",
-            "owner": "sdv-dev",
-            "repo": "SDV",
-            "stars": 3547
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Decoy",
-          "description": "Synthetic Data Generator using DuckDB at its core.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-06-22T08:37:14Z",
-            "owner": "EqualExperts",
-            "repo": "decoy",
-            "stars": 6
-          }
-        }
-      ],
-      "title": "Synthetic Data"
+      "title": "Main Content"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:15:33.546Z",
+    "last_updated": "2026-08-19T09:17:10.888Z",
     "original_repository": "station-10/awesome-marketing-machine-learning",
     "original_repository_sha": "3e51e6b44bf457b1c7df31ce8f852e6037073e59",
     "enhanced_repository": "enhansome/enhansome-marketing-machine-learning",
