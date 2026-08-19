@@ -320,7 +320,7 @@
                 "archived": false,
                 "id": 1885237,
                 "language": "Python",
-                "last_commit": "2026-08-19T05:23:35Z",
+                "last_commit": "2026-08-19T11:19:57Z",
                 "owner": "statsmodels",
                 "repo": "statsmodels",
                 "stars": 11580
@@ -442,7 +442,7 @@
                 "last_commit": "2026-08-19T08:11:18Z",
                 "owner": "pymc-labs",
                 "repo": "pymc-marketing",
-                "stars": 1228
+                "stars": 1229
               }
             },
             {
@@ -536,7 +536,7 @@
                 "archived": false,
                 "id": 194870085,
                 "language": "Python",
-                "last_commit": "2026-08-19T09:03:12Z",
+                "last_commit": "2026-08-19T11:48:08Z",
                 "owner": "retentioneering",
                 "repo": "retentioneering-tools",
                 "stars": 913
@@ -688,7 +688,7 @@
                 "last_commit": "2026-08-15T03:38:56Z",
                 "owner": "facebook",
                 "repo": "prophet",
-                "stars": 20364
+                "stars": 20365
               }
             },
             {
@@ -991,7 +991,7 @@
                 "archived": false,
                 "id": 133060053,
                 "language": "Python",
-                "last_commit": "2026-08-18T20:49:54Z",
+                "last_commit": "2026-08-19T09:32:31Z",
                 "owner": "sdv-dev",
                 "repo": "SDV",
                 "stars": 3546
@@ -1022,8 +1022,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:17:10.888Z",
+    "last_updated": "2026-08-19T12:38:26.810Z",
     "original_repository": "station-10/awesome-marketing-machine-learning",
+    "original_repository_id": 676990791,
     "original_repository_sha": "3e51e6b44bf457b1c7df31ce8f852e6037073e59",
     "enhanced_repository": "enhansome/enhansome-marketing-machine-learning",
     "enhanced_repository_description": null,
