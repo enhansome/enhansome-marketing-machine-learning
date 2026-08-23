@@ -141,10 +141,10 @@
                 "archived": false,
                 "id": 135584946,
                 "language": "Python",
-                "last_commit": "2026-08-22T09:07:11Z",
+                "last_commit": "2026-08-23T02:26:03Z",
                 "owner": "py-why",
                 "repo": "dowhy",
-                "stars": 8273
+                "stars": 8275
               }
             },
             {
@@ -159,7 +159,7 @@
                 "last_commit": "2026-08-20T15:25:36Z",
                 "owner": "uber",
                 "repo": "causalml",
-                "stars": 5967
+                "stars": 5968
               }
             },
             {
@@ -186,10 +186,10 @@
                 "archived": false,
                 "id": 539537904,
                 "language": "Python",
-                "last_commit": "2026-08-22T04:42:21Z",
+                "last_commit": "2026-08-23T06:31:37Z",
                 "owner": "pymc-labs",
                 "repo": "CausalPy",
-                "stars": 1179
+                "stars": 1180
               }
             },
             {
@@ -320,10 +320,10 @@
                 "archived": false,
                 "id": 1885237,
                 "language": "Python",
-                "last_commit": "2026-08-22T08:30:27Z",
+                "last_commit": "2026-08-23T07:08:28Z",
                 "owner": "statsmodels",
                 "repo": "statsmodels",
-                "stars": 11585
+                "stars": 11587
               }
             },
             {
@@ -338,7 +338,7 @@
                 "last_commit": "2026-08-17T19:10:59Z",
                 "owner": "py-why",
                 "repo": "EconML",
-                "stars": 4758
+                "stars": 4760
               }
             }
           ],
@@ -427,7 +427,7 @@
                 "last_commit": "2026-01-26T13:18:56Z",
                 "owner": "facebookexperimental",
                 "repo": "Robyn",
-                "stars": 1505
+                "stars": 1506
               }
             },
             {
@@ -439,10 +439,10 @@
                 "archived": false,
                 "id": 467144767,
                 "language": "Python",
-                "last_commit": "2026-08-21T20:14:33Z",
+                "last_commit": "2026-08-23T00:49:14Z",
                 "owner": "pymc-labs",
                 "repo": "pymc-marketing",
-                "stars": 1239
+                "stars": 1240
               }
             },
             {
@@ -606,7 +606,7 @@
                 "last_commit": "2026-08-20T16:19:43Z",
                 "owner": "recommenders-team",
                 "repo": "recommenders",
-                "stars": 21865
+                "stars": 21866
               }
             },
             {
@@ -621,7 +621,7 @@
                 "last_commit": "2026-05-30T17:11:41Z",
                 "owner": "NicolasHug",
                 "repo": "Surprise",
-                "stars": 6805
+                "stars": 6806
               }
             },
             {
@@ -700,7 +700,7 @@
                 "archived": false,
                 "id": 156401841,
                 "language": "Python",
-                "last_commit": "2026-08-22T00:44:41Z",
+                "last_commit": "2026-08-23T08:59:15Z",
                 "owner": "sktime",
                 "repo": "sktime",
                 "stars": 9959
@@ -718,7 +718,7 @@
                 "last_commit": "2026-08-21T08:30:55Z",
                 "owner": "unit8co",
                 "repo": "darts",
-                "stars": 9498
+                "stars": 9500
               }
             },
             {
@@ -733,7 +733,7 @@
                 "last_commit": "2026-07-06T01:28:19Z",
                 "owner": "blue-yonder",
                 "repo": "tsfresh",
-                "stars": 9293
+                "stars": 9294
               }
             },
             {
@@ -760,10 +760,10 @@
                 "archived": false,
                 "id": 431319532,
                 "language": "Python",
-                "last_commit": "2026-08-17T21:15:35Z",
+                "last_commit": "2026-08-23T08:49:37Z",
                 "owner": "Nixtla",
                 "repo": "statsforecast",
-                "stars": 4877
+                "stars": 4879
               }
             },
             {
@@ -790,10 +790,10 @@
                 "archived": false,
                 "id": 184809315,
                 "language": "Python",
-                "last_commit": "2026-08-18T00:30:11Z",
+                "last_commit": "2026-08-22T18:30:03Z",
                 "owner": "stumpy-dev",
                 "repo": "stumpy",
-                "stars": 4148
+                "stars": 4149
               }
             },
             {
@@ -805,10 +805,10 @@
                 "archived": false,
                 "id": 90264407,
                 "language": "Python",
-                "last_commit": "2026-08-21T14:31:51Z",
+                "last_commit": "2026-08-22T14:25:06Z",
                 "owner": "tslearn-team",
                 "repo": "tslearn",
-                "stars": 3170
+                "stars": 3171
               }
             },
             {
@@ -890,7 +890,7 @@
                 "last_commit": "2026-03-07T01:40:07Z",
                 "owner": "CamDavidsonPilon",
                 "repo": "lifelines",
-                "stars": 2604
+                "stars": 2605
               }
             },
             {
@@ -902,7 +902,7 @@
                 "archived": false,
                 "id": 77409504,
                 "language": "Python",
-                "last_commit": "2026-08-21T17:41:06Z",
+                "last_commit": "2026-08-23T05:49:19Z",
                 "owner": "sebp",
                 "repo": "scikit-survival",
                 "stars": 1319
@@ -1022,7 +1022,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T09:11:08.504Z",
+    "last_updated": "2026-08-23T09:11:08.298Z",
     "original_repository": "station-10/awesome-marketing-machine-learning",
     "original_repository_id": 676990791,
     "original_repository_sha": "3e51e6b44bf457b1c7df31ce8f852e6037073e59",
