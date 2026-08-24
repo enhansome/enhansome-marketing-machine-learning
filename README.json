@@ -186,7 +186,7 @@
                 "archived": false,
                 "id": 539537904,
                 "language": "Python",
-                "last_commit": "2026-08-24T03:46:45Z",
+                "last_commit": "2026-08-24T14:21:01Z",
                 "owner": "pymc-labs",
                 "repo": "CausalPy",
                 "stars": 1180
@@ -313,6 +313,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "gapandas4",
+              "description": "Python package for querying the Google Analytics Data API for GA4 and displaying the results in a Pandas dataframe.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 506166341,
+                "language": "Python",
+                "last_commit": "2022-07-06T07:55:20Z",
+                "owner": "practical-data-science",
+                "repo": "gapandas4",
+                "stars": 35
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Data"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "statsmodels",
               "description": "Statistical modeling including time series and econometrics.",
               "children": [],
@@ -320,10 +342,10 @@
                 "archived": false,
                 "id": 1885237,
                 "language": "Python",
-                "last_commit": "2026-08-24T05:58:18Z",
+                "last_commit": "2026-08-24T13:58:54Z",
                 "owner": "statsmodels",
                 "repo": "statsmodels",
-                "stars": 11588
+                "stars": 11589
               }
             },
             {
@@ -439,7 +461,7 @@
                 "archived": false,
                 "id": 467144767,
                 "language": "Python",
-                "last_commit": "2026-08-24T09:28:12Z",
+                "last_commit": "2026-08-24T14:34:03Z",
                 "owner": "pymc-labs",
                 "repo": "pymc-marketing",
                 "stars": 1242
@@ -603,10 +625,10 @@
                 "archived": false,
                 "id": 149430917,
                 "language": "Python",
-                "last_commit": "2026-08-20T16:19:43Z",
+                "last_commit": "2026-08-24T14:29:28Z",
                 "owner": "recommenders-team",
                 "repo": "recommenders",
-                "stars": 21866
+                "stars": 21867
               }
             },
             {
@@ -805,7 +827,7 @@
                 "archived": false,
                 "id": 90264407,
                 "language": "Python",
-                "last_commit": "2026-08-24T07:54:06Z",
+                "last_commit": "2026-08-24T14:01:58Z",
                 "owner": "tslearn-team",
                 "repo": "tslearn",
                 "stars": 3172
@@ -1022,7 +1044,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:30:43.243Z",
+    "last_updated": "2026-08-24T14:38:29.308Z",
     "original_repository": "station-10/awesome-marketing-machine-learning",
     "original_repository_id": 676990791,
     "original_repository_sha": "3e51e6b44bf457b1c7df31ce8f852e6037073e59",
