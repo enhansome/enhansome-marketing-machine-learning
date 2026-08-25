@@ -141,10 +141,10 @@
                 "archived": false,
                 "id": 135584946,
                 "language": "Python",
-                "last_commit": "2026-08-24T02:21:00Z",
+                "last_commit": "2026-08-25T02:29:09Z",
                 "owner": "py-why",
                 "repo": "dowhy",
-                "stars": 8276
+                "stars": 8277
               }
             },
             {
@@ -186,7 +186,7 @@
                 "archived": false,
                 "id": 539537904,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:21:01Z",
+                "last_commit": "2026-08-24T20:58:28Z",
                 "owner": "pymc-labs",
                 "repo": "CausalPy",
                 "stars": 1180
@@ -342,7 +342,7 @@
                 "archived": false,
                 "id": 1885237,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:58:54Z",
+                "last_commit": "2026-08-24T22:55:05Z",
                 "owner": "statsmodels",
                 "repo": "statsmodels",
                 "stars": 11589
@@ -357,7 +357,7 @@
                 "archived": false,
                 "id": 131646318,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-17T19:10:59Z",
+                "last_commit": "2026-08-24T18:49:28Z",
                 "owner": "py-why",
                 "repo": "EconML",
                 "stars": 4759
@@ -461,7 +461,7 @@
                 "archived": false,
                 "id": 467144767,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:34:03Z",
+                "last_commit": "2026-08-24T22:26:56Z",
                 "owner": "pymc-labs",
                 "repo": "pymc-marketing",
                 "stars": 1242
@@ -625,10 +625,10 @@
                 "archived": false,
                 "id": 149430917,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:29:28Z",
+                "last_commit": "2026-08-24T17:53:28Z",
                 "owner": "recommenders-team",
                 "repo": "recommenders",
-                "stars": 21867
+                "stars": 21866
               }
             },
             {
@@ -710,7 +710,7 @@
                 "last_commit": "2026-08-15T03:38:56Z",
                 "owner": "facebook",
                 "repo": "prophet",
-                "stars": 20364
+                "stars": 20366
               }
             },
             {
@@ -722,7 +722,7 @@
                 "archived": false,
                 "id": 156401841,
                 "language": "Python",
-                "last_commit": "2026-08-23T22:13:28Z",
+                "last_commit": "2026-08-24T21:27:52Z",
                 "owner": "sktime",
                 "repo": "sktime",
                 "stars": 9963
@@ -755,7 +755,7 @@
                 "last_commit": "2026-07-06T01:28:19Z",
                 "owner": "blue-yonder",
                 "repo": "tsfresh",
-                "stars": 9295
+                "stars": 9296
               }
             },
             {
@@ -812,7 +812,7 @@
                 "archived": false,
                 "id": 184809315,
                 "language": "Python",
-                "last_commit": "2026-08-24T03:22:18Z",
+                "last_commit": "2026-08-25T01:11:53Z",
                 "owner": "stumpy-dev",
                 "repo": "stumpy",
                 "stars": 4149
@@ -827,10 +827,10 @@
                 "archived": false,
                 "id": 90264407,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:01:58Z",
+                "last_commit": "2026-08-24T18:17:01Z",
                 "owner": "tslearn-team",
                 "repo": "tslearn",
-                "stars": 3172
+                "stars": 3174
               }
             },
             {
@@ -1013,10 +1013,10 @@
                 "archived": false,
                 "id": 133060053,
                 "language": "Python",
-                "last_commit": "2026-08-24T00:21:09Z",
+                "last_commit": "2026-08-25T00:22:56Z",
                 "owner": "sdv-dev",
                 "repo": "SDV",
-                "stars": 3548
+                "stars": 3549
               }
             },
             {
@@ -1044,7 +1044,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:38:29.308Z",
+    "last_updated": "2026-08-25T06:29:39.538Z",
     "original_repository": "station-10/awesome-marketing-machine-learning",
     "original_repository_id": 676990791,
     "original_repository_sha": "3e51e6b44bf457b1c7df31ce8f852e6037073e59",
