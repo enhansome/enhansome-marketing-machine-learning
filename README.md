@@ -1,5 +1,5 @@
-[![Awesome](images/awesome.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,706 | 🐛 106 | 📅 2026-08-21
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/EthicalML/awesome-production-machine-learning/graphs/commit-activity) ⭐ 20,868 | 🐛 31 | 📅 2026-08-12
+[![Awesome](images/awesome.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,743 | 🐛 106 | 📅 2026-08-21
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/EthicalML/awesome-production-machine-learning/graphs/commit-activity) ⭐ 20,867 | 🐛 31 | 📅 2026-08-12
 ![GitHub](https://img.shields.io/badge/Languages-MULTI-blue.svg)
 ![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 [![GitHub](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge\&logo=twitter\&logoColor=white)](https://twitter.com/station10_uk)
@@ -8,8 +8,8 @@
 # awesome-marketing-machine-learning with stars
 
 A curated list of awesome machine learning libraries for marketing. Inspired by both
-[awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) ⭐ 20,868 | 🐛 31 | 📅 2026-08-12 and
-[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,148 | 🐛 26 | 🌐 Python | 📅 2026-08-24,
+[awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) ⭐ 20,867 | 🐛 31 | 📅 2026-08-12 and
+[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,149 | 🐛 27 | 🌐 Python | 📅 2026-08-24,
 and created and maintained by [Station 10](https://station10.co.uk/).
 
 Note that some packages could fit into more than one section. This has been noted in the descriptions so be sure to Ctrl + F as well as exploring by
@@ -43,7 +43,7 @@ All packages are Python based unless otherwise stated. We welcome contributions 
 
 ## Causal Inference
 
-* [dowhy](https://github.com/py-why/dowhy) ⭐ 8,277 | 🐛 232 | 🌐 Python | 📅 2026-08-25 ![Github Stars](https://img.shields.io/github/stars/py-why/dowhy.svg?style=social)
+* [dowhy](https://github.com/py-why/dowhy) ⭐ 8,280 | 🐛 232 | 🌐 Python | 📅 2026-08-25 ![Github Stars](https://img.shields.io/github/stars/py-why/dowhy.svg?style=social)
   Causal Inference that supports explicit modeling and testing of causal assumptions.
 * [causalml](https://github.com/uber/causalml) ⭐ 5,967 | 🐛 9 | 🌐 Python | 📅 2026-08-20 ![Github Stars](https://img.shields.io/github/stars/uber/causalml.svg?style=social)
   Uplift modeling and causal inference with ML by Uber.
@@ -52,7 +52,7 @@ All packages are Python based unless otherwise stated. We welcome contributions 
 * [CausalPy](https://github.com/pymc-labs/CausalPy) ⭐ 1,180 | 🐛 173 | 🌐 Python | 📅 2026-08-24 ![Github Stars](https://img.shields.io/github/stars/pymc-labs/CausalPy.svg?style=social)
   Causal Inference & Synthetic Control. Supports fitting with `scikit-learn` and `PyMC` models.
 * [scikit-uplift](https://github.com/maks-sh/scikit-uplift) ⭐ 813 | 🐛 40 | 🌐 Python | 📅 2023-10-21 ![Github Stars](https://img.shields.io/github/stars/maks-sh/scikit-uplift.svg?style=social)
-* [tfcausalimpact](https://github.com/WillianFuks/tfcausalimpact) ⭐ 675 | 🐛 47 | 🌐 Python | 📅 2025-01-13 ![Github Stars](https://img.shields.io/github/stars/WillianFuks/tfcausalimpact.svg?style=social)
+* [tfcausalimpact](https://github.com/WillianFuks/tfcausalimpact) ⭐ 675 | 🐛 48 | 🌐 Python | 📅 2025-01-13 ![Github Stars](https://img.shields.io/github/stars/WillianFuks/tfcausalimpact.svg?style=social)
   Google's [CausalImpact](https://github.com/google/CausalImpact) ⭐ 1,854 | 🐛 31 | 🌐 R | 📅 2026-03-31 Algorithm implemented on top of [TensorFlow Probability](https://github.com/tensorflow/probability) ⭐ 4,427 | 🐛 726 | 🌐 Jupyter Notebook | 📅 2026-08-06.
 * [upliftml](https://github.com/bookingcom/upliftml) ⭐ 334 | 🐛 7 | 🌐 Python | 📅 2023-03-23 ![Github Stars](https://img.shields.io/github/stars/bookingcom/upliftml.svg?style=social)
   Scalable unconstrained and constrained uplift modeling from experimental data using PySpark and H20.
@@ -76,9 +76,9 @@ All packages are Python based unless otherwise stated. We welcome contributions 
 
 ## Econometrics
 
-* [statsmodels](https://github.com/statsmodels/statsmodels) ⭐ 11,589 | 🐛 2,817 | 🌐 Python | 📅 2026-08-24 ![Github Stars](https://img.shields.io/github/stars/statsmodels/statsmodels.svg?style=social)
+* [statsmodels](https://github.com/statsmodels/statsmodels) ⭐ 11,590 | 🐛 2,816 | 🌐 Python | 📅 2026-08-25 ![Github Stars](https://img.shields.io/github/stars/statsmodels/statsmodels.svg?style=social)
   Statistical modeling including time series and econometrics.
-* [EconML](https://github.com/py-why/EconML) ⭐ 4,759 | 🐛 416 | 🌐 Jupyter Notebook | 📅 2026-08-24 ![Github Stars](https://img.shields.io/github/stars/py-why/EconML.svg?style=social)
+* [EconML](https://github.com/py-why/EconML) ⭐ 4,760 | 🐛 416 | 🌐 Jupyter Notebook | 📅 2026-08-24 ![Github Stars](https://img.shields.io/github/stars/py-why/EconML.svg?style=social)
   AI, Econometrics and Causal Inference modelling.
 
 ## Geo Experimentation
@@ -94,7 +94,7 @@ All packages are Python based unless otherwise stated. We welcome contributions 
 
 ## Media / Marketing Mix Models
 
-* [Robyn](https://github.com/facebookexperimental/Robyn) ⭐ 1,506 | 🐛 115 | 🌐 Jupyter Notebook | 📅 2026-01-26 ![Github Stars](https://img.shields.io/github/stars/facebookexperimental/Robyn.svg?style=social)
+* [Robyn](https://github.com/facebookexperimental/Robyn) ⭐ 1,507 | 🐛 115 | 🌐 Jupyter Notebook | 📅 2026-01-26 ![Github Stars](https://img.shields.io/github/stars/facebookexperimental/Robyn.svg?style=social)
   (R) Bayesian Media Mix Models by Facebook.
 * [pymc-marketing](https://github.com/pymc-labs/pymc-marketing) ⭐ 1,242 | 🐛 423 | 🌐 Python | 📅 2026-08-24 ![Github Stars](https://img.shields.io/github/stars/pymc-labs/pymc-marketing.svg?style=social)
   Bayesian Media Mix, Adstock, Saturation Customer Lifetime Value & Churn models.
@@ -122,7 +122,7 @@ All packages are Python based unless otherwise stated. We welcome contributions 
 
 ## Recommendation Systems
 
-* [recommenders](https://github.com/microsoft/recommenders) ⭐ 21,866 | 🐛 177 | 🌐 Python | 📅 2026-08-24 ![Github Stars](https://img.shields.io/github/stars/microsoft/recommenders.svg?style=social)
+* [recommenders](https://github.com/microsoft/recommenders) ⭐ 21,865 | 🐛 177 | 🌐 Python | 📅 2026-08-24 ![Github Stars](https://img.shields.io/github/stars/microsoft/recommenders.svg?style=social)
   Best Practices on Recommendation Systems by Microsoft.
 * [Surprise](https://github.com/NicolasHug/Surprise) ⭐ 6,806 | 🐛 80 | 🌐 Python | 📅 2026-05-30 ![Github Stars](https://img.shields.io/github/stars/NicolasHug/Surprise.svg?style=social)
   Scikit for building and analyzing recommender systems that deal with explicit rating data.
@@ -135,11 +135,11 @@ All packages are Python based unless otherwise stated. We welcome contributions 
 
 ## Time Series
 
-* [prophet](https://github.com/facebook/prophet) ⭐ 20,366 | 🐛 453 | 🌐 Python | 📅 2026-08-15 ![Github Stars](https://img.shields.io/github/stars/facebook/prophet.svg?style=social)
+* [prophet](https://github.com/facebook/prophet) ⭐ 20,367 | 🐛 453 | 🌐 Python | 📅 2026-08-15 ![Github Stars](https://img.shields.io/github/stars/facebook/prophet.svg?style=social)
   Additive time series modelling by Facebook.
-* [sktime](https://github.com/sktime/sktime) ⭐ 9,963 | 🐛 2,385 | 🌐 Python | 📅 2026-08-24 ![Github Stars](https://img.shields.io/github/stars/sktime/sktime.svg?style=social)
+* [sktime](https://github.com/sktime/sktime) ⭐ 9,963 | 🐛 2,386 | 🌐 Python | 📅 2026-08-24 ![Github Stars](https://img.shields.io/github/stars/sktime/sktime.svg?style=social)
   A unified framework for ML with Time Eeries.
-* [darts](https://github.com/unit8co/darts) ⭐ 9,504 | 🐛 227 | 🌐 Python | 📅 2026-08-21 ![Github Stars](https://img.shields.io/github/stars/unit8co/darts.svg?style=social)
+* [darts](https://github.com/unit8co/darts) ⭐ 9,505 | 🐛 226 | 🌐 Python | 📅 2026-08-21 ![Github Stars](https://img.shields.io/github/stars/unit8co/darts.svg?style=social)
   Python library for user-friendly forecasting and anomaly detection on time series built using SKL conventions.
 * [tsfresh](https://github.com/blue-yonder/tsfresh) ⭐ 9,296 | 🐛 71 | 🌐 Jupyter Notebook | 📅 2026-07-06 ![Github Stars](https://img.shields.io/github/stars/blue-yonder/tsfresh.svg?style=social)
   Time Series Feature extraction based on scalable hypothesis tests.
@@ -151,7 +151,7 @@ All packages are Python based unless otherwise stated. We welcome contributions 
   Framework for interpretable time series forecasting built on PyTorch.
 * [stumpy](https://github.com/TDAmeritrade/stumpy) ⭐ 4,149 | 🐛 80 | 🌐 Python | 📅 2026-08-25 ![Github Stars](https://img.shields.io/github/stars/TDAmeritrade/stumpy.svg?style=social)
   STUMPY  computes something called the matrix profile, which is just an academic way of saying "for every subsequence automatically identify its corresponding nearest-neighbor"
-* [tslearn](https://github.com/tslearn-team/tslearn) ⭐ 3,174 | 🐛 85 | 🌐 Python | 📅 2026-08-24 ![Github Stars](https://img.shields.io/github/stars/tslearn-team/tslearn.svg?style=social)
+* [tslearn](https://github.com/tslearn-team/tslearn) ⭐ 3,174 | 🐛 85 | 🌐 Python | 📅 2026-08-25 ![Github Stars](https://img.shields.io/github/stars/tslearn-team/tslearn.svg?style=social)
   The machine learning toolkit for time series analysis in Python.
 * [orbit](https://github.com/uber/orbit) ⭐ 2,068 | 🐛 59 | 🌐 Python | 📅 2026-05-22 ![Github Stars](https://img.shields.io/github/stars/uber/orbit.svg?style=social)
   Python package for Bayesian time series forecasting and inference by Uber.
@@ -164,7 +164,7 @@ All packages are Python based unless otherwise stated. We welcome contributions 
 
 ## Survival Analysis
 
-* [lifelines](https://github.com/CamDavidsonPilon/lifelines) ⭐ 2,605 | 🐛 297 | 🌐 Python | 📅 2026-03-07 ![Github Stars](https://img.shields.io/github/stars/CamDavidsonPilon/lifelines.svg?style=social)
+* [lifelines](https://github.com/CamDavidsonPilon/lifelines) ⭐ 2,606 | 🐛 297 | 🌐 Python | 📅 2026-03-07 ![Github Stars](https://img.shields.io/github/stars/CamDavidsonPilon/lifelines.svg?style=social)
   lifelines is a pure Python implementation of the best parts of survival analysis.
 * [scikit-survival](https://github.com/sebp/scikit-survival) ⭐ 1,319 | 🐛 30 | 🌐 Python | 📅 2026-08-23 ![Github Stars](https://img.shields.io/github/stars/sebp/scikit-survival.svg?style=social)
   Survival analysis built on top of scikit-learn.
