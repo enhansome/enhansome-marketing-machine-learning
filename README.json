@@ -12,12 +12,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python Class created to address problems regarding Digital Marketing Attribution.",
+                "homepage": "https://dp6.github.io/Marketing-Attribution-Models",
                 "id": 236500868,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T17:53:00Z",
+                "open_issues": 27,
                 "owner": "DP6",
                 "repo": "Marketing-Attribution-Models",
-                "stars": 368
+                "stars": 368,
+                "topics": [
+                  "attribution-model",
+                  "digital-marketing-attribution",
+                  "dp6",
+                  "hacktoberfest",
+                  "journey",
+                  "mam",
+                  "marketing-attribution"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -28,12 +41,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-Touch Attribution",
+                "homepage": null,
                 "id": 155513940,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-18T08:18:41Z",
+                "open_issues": 0,
                 "owner": "eeghor",
                 "repo": "mta",
-                "stars": 130
+                "stars": 130,
+                "topics": [
+                  "marketing",
+                  "markov-model",
+                  "probabilistic-models",
+                  "shapley"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -44,12 +67,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PoC for a fractional attribution model leveraging first order Markov Chains.",
+                "homepage": null,
                 "id": 141180079,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-13T22:04:26Z",
+                "open_issues": 1,
                 "owner": "jerednel",
                 "repo": "markov-chain-attribution",
-                "stars": 86
+                "stars": 86,
+                "topics": [
+                  "attribution",
+                  "marketing-analytics",
+                  "markov-chain-attribution",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -60,12 +93,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python Channel Attribution (pychattr) - A Python implementation of the excellent R ChannelAttribution library",
+                "homepage": null,
                 "id": 140499538,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-09-05T20:29:08Z",
+                "open_issues": 6,
                 "owner": "jmwoloso",
                 "repo": "pychattr",
-                "stars": 59
+                "stars": 59,
+                "topics": [
+                  "channel-attribution",
+                  "data-analysis",
+                  "data-science",
+                  "machine-learning",
+                  "python",
+                  "python-channel-attribution",
+                  "rpy2",
+                  "wrapper"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -76,12 +123,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 289190087,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-04-07T05:54:05Z",
+                "open_issues": 1,
                 "owner": "google",
                 "repo": "fractribution",
-                "stars": 58
+                "stars": 58,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -92,12 +144,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shapley Attribution: A scikit-learn compatible library that uses Shapley values to measure each marketing channel's true marginal contribution to conversions",
+                "homepage": null,
                 "id": 225305843,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-20T23:58:37Z",
+                "open_issues": 0,
                 "owner": "ianchute",
                 "repo": "shapley-attribution",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "attribution",
+                  "marketing-attribution",
+                  "shapley-values"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -108,12 +169,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Markov Model for Online Multi-Channel Attribution",
+                "homepage": "http:\\\\www.channelattribution.net",
                 "id": 265841600,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2025-11-19T09:18:10Z",
+                "open_issues": 0,
                 "owner": "DavideAltomare",
                 "repo": "ChannelAttribution",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "attribution",
+                  "marketing",
+                  "markov-model"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -124,12 +194,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Attribution modelling using Shapley Values",
+                "homepage": null,
                 "id": 181204644,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-04-18T09:37:58Z",
+                "open_issues": 0,
                 "owner": "hartmann-lars",
                 "repo": "shapley",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             }
@@ -147,12 +222,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks. ",
+                "homepage": "https://www.pywhy.org/dowhy",
                 "id": 135584946,
                 "language": "Python",
-                "last_commit": "2026-08-28T12:26:44Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T23:12:29Z",
+                "open_issues": 237,
                 "owner": "py-why",
                 "repo": "dowhy",
-                "stars": 8289
+                "stars": 8290,
+                "topics": [
+                  "bayesian-networks",
+                  "causal-inference",
+                  "causal-machine-learning",
+                  "causal-models",
+                  "causality",
+                  "data-science",
+                  "do-calculus",
+                  "graphical-models",
+                  "machine-learning",
+                  "python3",
+                  "treatment-effects"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -163,12 +255,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Uplift modeling and causal inference with machine learning algorithms",
+                "homepage": null,
                 "id": 195914972,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-20T15:25:36Z",
+                "open_issues": 13,
                 "owner": "uber",
                 "repo": "causalml",
-                "stars": 5975
+                "stars": 5976,
+                "topics": [
+                  "causal-inference",
+                  "incubation",
+                  "machine-learning",
+                  "uplift-modeling"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -179,12 +281,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An R package for causal inference in time series",
+                "homepage": null,
                 "id": 22765467,
                 "language": "R",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-31T04:46:51Z",
+                "open_issues": 31,
                 "owner": "google",
                 "repo": "CausalImpact",
-                "stars": 1854
+                "stars": 1855,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -195,12 +302,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python package for causal inference in quasi-experimental settings",
+                "homepage": "https://causalpy.readthedocs.io",
                 "id": 539537904,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T17:52:06Z",
+                "open_issues": 173,
                 "owner": "pymc-labs",
                 "repo": "CausalPy",
-                "stars": 1181
+                "stars": 1181,
+                "topics": [
+                  "causal-inference",
+                  "pymc",
+                  "quasi-experimental",
+                  "quasi-experiments"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -211,12 +328,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":exclamation: uplift modeling in scikit-learn style in python :snake:",
+                "homepage": "https://www.uplift-modeling.com",
                 "id": 229347545,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-21T16:05:46Z",
+                "open_issues": 40,
                 "owner": "maks-sh",
                 "repo": "scikit-uplift",
-                "stars": 814
+                "stars": 814,
+                "topics": [
+                  "causal-inference",
+                  "causality",
+                  "individual-treatment-effects",
+                  "machine-learning",
+                  "net-lift",
+                  "true-lift",
+                  "uplift",
+                  "uplift-modeling",
+                  "uplift-modelling"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -227,12 +359,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python Causal Impact Implementation Based on Google's R Package. Built using TensorFlow Probability.",
+                "homepage": null,
                 "id": 288209400,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-01-13T14:42:12Z",
+                "open_issues": 48,
                 "owner": "WillianFuks",
                 "repo": "tfcausalimpact",
-                "stars": 675
+                "stars": 675,
+                "topics": [
+                  "causal-inference",
+                  "causalimpact",
+                  "python",
+                  "tensorflow-probability"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -243,12 +385,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UpliftML: A Python Package for Scalable Uplift Modeling",
+                "homepage": null,
                 "id": 379548730,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-03-23T16:50:16Z",
+                "open_issues": 7,
                 "owner": "bookingcom",
                 "repo": "upliftml",
-                "stars": 334
+                "stars": 334,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -259,12 +406,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python package for causal inference using Synthetic Controls",
+                "homepage": null,
                 "id": 275336592,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-01-25T04:32:16Z",
+                "open_issues": 19,
                 "owner": "OscarEngelbrektson",
                 "repo": "SyntheticControlMethods",
-                "stars": 195
+                "stars": 195,
+                "topics": [
+                  "causal-inference",
+                  "causal-models",
+                  "causality",
+                  "causality-analysis",
+                  "counterfactual",
+                  "econometrics",
+                  "package",
+                  "policy-evaluation",
+                  "program-evaluation",
+                  "python",
+                  "synthetic-control"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             }
@@ -282,12 +446,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Lifetime value in Python",
+                "homepage": null,
                 "id": 28577939,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-06-28T14:10:21Z",
+                "open_issues": 1,
                 "owner": "CamDavidsonPilon",
                 "repo": "lifetimes",
-                "stars": 1476
+                "stars": 1476,
+                "topics": [
+                  "data-science",
+                  "python",
+                  "statistics"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -298,12 +471,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Buy Till You Die and Customer Lifetime Value statistical models in Python.",
+                "homepage": "https://btyd.readthedocs.io/",
                 "id": 457011033,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-14T19:57:56Z",
+                "open_issues": 12,
                 "owner": "ColtAllen",
                 "repo": "btyd",
-                "stars": 118
+                "stars": 118,
+                "topics": [
+                  "bayesian",
+                  "buy-til-you-die",
+                  "customer-lifetime-value",
+                  "data-science",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -314,12 +498,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple multicohort LTV calculator for subscriptions",
+                "homepage": null,
                 "id": 439413572,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-03-07T17:34:11Z",
+                "open_issues": 0,
                 "owner": "plexagon",
                 "repo": "lucius-ltv",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             }
@@ -337,12 +526,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GAPandas4 is a Python package for querying the Google Analytics Data API for GA4 and displaying the results in a Pandas dataframe. ",
+                "homepage": null,
                 "id": 506166341,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-07-06T07:55:20Z",
+                "open_issues": 2,
                 "owner": "practical-data-science",
                 "repo": "gapandas4",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             }
@@ -360,12 +554,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Statsmodels: statistical modeling and econometrics in Python",
+                "homepage": "http://www.statsmodels.org/devel/",
                 "id": 1885237,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-27T18:27:55Z",
+                "open_issues": 2807,
                 "owner": "statsmodels",
                 "repo": "statsmodels",
-                "stars": 11595
+                "stars": 11598,
+                "topics": [
+                  "count-model",
+                  "data-analysis",
+                  "data-science",
+                  "econometrics",
+                  "forecasting",
+                  "generalized-linear-models",
+                  "hypothesis-testing",
+                  "prediction",
+                  "python",
+                  "regression-models",
+                  "robust-estimation",
+                  "statistics",
+                  "timeseries-analysis"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -376,12 +589,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ALICE (Automated Learning and Intelligence for Causation and Economics) is a Microsoft Research project aimed at applying Artificial Intelligence concepts to economic decision making. One of its  goals is to build a toolkit that combines state-of-the-art machine learning techniques with econometrics in order to bring automation to complex causal inference problems. To date, the ALICE Python SDK (econml) implements orthogonal machine learning algorithms such as the double machine learning work of Chernozhukov et al. This toolkit is designed to measure the causal effect of some treatment variable(s) t on an outcome variable y, controlling for a set of features x.",
+                "homepage": "https://www.microsoft.com/en-us/research/project/alice/",
                 "id": 131646318,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T18:49:28Z",
+                "open_issues": 416,
                 "owner": "py-why",
                 "repo": "EconML",
-                "stars": 4771
+                "stars": 4772,
+                "topics": [
+                  "causal-inference",
+                  "causality",
+                  "econometrics",
+                  "economics",
+                  "machine-learning",
+                  "treatment-effects"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             }
@@ -399,12 +624,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GeoLift is an end-to-end geo-experimental methodology based on Synthetic Control Methods used to measure the true incremental effect (Lift) of ad campaign.",
+                "homepage": "https://facebookincubator.github.io/GeoLift/",
                 "id": 406931771,
                 "language": "R",
+                "license": "MIT",
                 "last_commit": "2026-06-30T09:54:38Z",
+                "open_issues": 37,
                 "owner": "facebookincubator",
                 "repo": "GeoLift",
-                "stars": 263
+                "stars": 263,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -415,12 +645,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An open-source implementation of the geo experiment analysis methodology developed at Google. Disclaimer: This is not an official Google product.",
+                "homepage": null,
                 "id": 85719344,
                 "language": "R",
+                "license": "Apache-2.0",
                 "last_commit": "2019-10-03T18:11:43Z",
+                "open_issues": 1,
                 "owner": "google",
                 "repo": "GeoexperimentsResearch",
-                "stars": 142
+                "stars": 142,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -431,12 +666,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Matched Markets is a Python library for design and analysis of Geo experiments using Matched Markets and Time Based Regression.",
+                "homepage": null,
                 "id": 309912962,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-08-21T17:30:13Z",
+                "open_issues": 9,
                 "owner": "google",
                 "repo": "matched_markets",
-                "stars": 103
+                "stars": 103,
+                "topics": [
+                  "geoexperiments",
+                  "power-analysis",
+                  "statistics"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -447,12 +691,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This Python library implements Trimmed Match for analyzing randomized paired geo experiments and also implements Trimmed Match Design for designing randomized paired geo experiments.",
+                "homepage": null,
                 "id": 263527941,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-06-01T14:52:13Z",
+                "open_issues": 1,
                 "owner": "google",
                 "repo": "trimmed_match",
-                "stars": 72
+                "stars": 72,
+                "topics": [
+                  "abtest",
+                  "causal-inference",
+                  "experimental-design",
+                  "geo-experiments",
+                  "iroas",
+                  "robust-statistics"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             }
@@ -470,12 +726,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Robyn is an experimental, AI/ML-powered and open sourced Marketing Mix Modeling (MMM) package from Meta Marketing Science. Our mission is to democratise modeling knowledge, inspire the industry through innovation, reduce human bias in the modeling process & build a strong open source marketing science community.",
+                "homepage": "https://facebookexperimental.github.io/Robyn/",
                 "id": 260182729,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-01-26T13:18:56Z",
+                "open_issues": 115,
                 "owner": "facebookexperimental",
                 "repo": "Robyn",
-                "stars": 1508
+                "stars": 1508,
+                "topics": [
+                  "adstocking",
+                  "budget-allocation",
+                  "cost-response-curve",
+                  "econometrics",
+                  "evolutionary-algorithm",
+                  "gradient-based-optimisation",
+                  "hyperparameter-optimization",
+                  "marketing-mix-modeling",
+                  "marketing-mix-modelling",
+                  "marketing-science",
+                  "mmm",
+                  "ridge-regression"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -486,12 +760,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bayesian marketing toolbox in PyMC. Media Mix (MMM), customer lifetime value (CLV), buy-till-you-die (BTYD) models and more.",
+                "homepage": "https://www.pymc-marketing.io/",
                 "id": 467144767,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T20:19:13Z",
+                "open_issues": 428,
                 "owner": "pymc-labs",
                 "repo": "pymc-marketing",
-                "stars": 1249
+                "stars": 1250,
+                "topics": [
+                  "btyd",
+                  "buy-till-you-die",
+                  "clv",
+                  "customer-lifetime-value",
+                  "data-science",
+                  "marketing",
+                  "marketing-mix-modeling",
+                  "media-mix-modeling",
+                  "mmm",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -502,12 +792,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "LightweightMMM 🦇 is a lightweight Bayesian Marketing Mix Modeling (MMM) library that allows users to easily train MMMs and obtain channel attribution information.",
+                "homepage": "https://lightweight-mmm.readthedocs.io/en/latest/index.html",
                 "id": 457695550,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-17T15:20:20Z",
+                "open_issues": 123,
                 "owner": "google",
                 "repo": "lightweight_mmm",
-                "stars": 1052
+                "stars": 1052,
+                "topics": [
+                  "bayesian",
+                  "data-science",
+                  "econometrics",
+                  "marketing-science",
+                  "mmm"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -518,12 +819,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python/STAN Implementation of Multiplicative Marketing Mix Model, with deep dive into Adstock (carry-over effect), ROAS, and mROAS",
+                "homepage": null,
                 "id": 317177499,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2022-05-28T05:45:02Z",
+                "open_issues": 5,
                 "owner": "sibylhe",
                 "repo": "mmm_stan",
-                "stars": 404
+                "stars": 404,
+                "topics": [
+                  "bayesian-regression",
+                  "constrained-regression",
+                  "marketing-mix-modeling",
+                  "media-mix-modeling",
+                  "pystan",
+                  "roas",
+                  "stan"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -534,12 +848,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A package to compute a marketing mix model.",
+                "homepage": null,
                 "id": 492336048,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-07-30T08:44:04Z",
+                "open_issues": 0,
                 "owner": "RobKuebler",
                 "repo": "mamimo",
-                "stars": 74
+                "stars": 74,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -550,12 +869,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(ml) - python implementation of bayesian media mix modelling with shape and carryover effect",
+                "homepage": null,
                 "id": 364604619,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2021-12-07T12:14:09Z",
+                "open_issues": 2,
                 "owner": "leopoldavezac",
                 "repo": "BayesianMMM",
-                "stars": 66
+                "stars": 66,
+                "topics": [
+                  "marketing",
+                  "media-mix-modeling",
+                  "mmm",
+                  "pystan",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -566,12 +896,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Marketing Mix Modeling Data Generator",
+                "homepage": "https://doktormike.github.io/dammmdatagen/",
                 "id": 110481972,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2021-12-27T16:26:06Z",
+                "open_issues": 0,
                 "owner": "DoktorMike",
                 "repo": "dammmdatagen",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "benchmark",
+                  "data",
+                  "data-generator",
+                  "marketing-mix-modeling"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             }
@@ -589,12 +929,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python toolkit, MCP server, and agent skills for reproducible, auditable clickstream and event log analytics. Helps AI agents, data scientists and analysts build, validate, and cross-check product analytics, quantitative UX, customer journeys, graph-based user flows, behavioral segmentation, A/B tests, process mining models, Markov chain simulation",
+                "homepage": "https://retentioneering.com/docs/",
                 "id": 194870085,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T21:08:35Z",
+                "open_issues": 3,
                 "owner": "retentioneering",
                 "repo": "retentioneering-tools",
-                "stars": 917
+                "stars": 917,
+                "topics": [
+                  "agent-skills",
+                  "analytics-mcp",
+                  "behaviour-analysis",
+                  "clickstream",
+                  "clickstream-analysis",
+                  "customer-journey-analytics",
+                  "customer-journey-map",
+                  "data-visualization",
+                  "graph-visualizer",
+                  "machine-learning",
+                  "predictive-analytics",
+                  "predictive-modeling",
+                  "product-analytics",
+                  "python",
+                  "quant-ux",
+                  "segmentation",
+                  "user-flow",
+                  "user-trajectories",
+                  "user-trajectories-analysis",
+                  "web-analytics"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -605,12 +971,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EcommerceTools is a Python data science toolkit for ecommerce, marketing science, and technical SEO analysis and modelling and was created by Matt Clarke.",
+                "homepage": null,
                 "id": 345148349,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-01-29T09:34:58Z",
+                "open_issues": 9,
                 "owner": "practical-data-science",
                 "repo": "ecommercetools",
-                "stars": 280
+                "stars": 280,
+                "topics": [
+                  "customer",
+                  "customers",
+                  "ecommerce",
+                  "marketing",
+                  "marketing-analytics",
+                  "marketing-tools",
+                  "retail",
+                  "seo",
+                  "seo-optimization",
+                  "seotools"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -621,12 +1003,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Clustering for mixed-type data",
+                "homepage": "https://aws.amazon.com/blogs/opensource/introducing-denseclus-an-open-source-clustering-package-for-mixed-type-data/",
                 "id": 392481310,
                 "language": "Jupyter Notebook",
+                "license": "MIT-0",
                 "last_commit": "2024-07-29T22:54:49Z",
+                "open_issues": 11,
                 "owner": "awslabs",
                 "repo": "amazon-denseclus",
-                "stars": 101
+                "stars": 101,
+                "topics": [
+                  "clustering",
+                  "embedding",
+                  "machinelearning-python",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -637,12 +1029,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python Package for RFM Analysis and Customer Segmentation",
+                "homepage": null,
                 "id": 458799470,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-03-02T16:40:59Z",
+                "open_issues": 3,
                 "owner": "sonwanesuresh95",
                 "repo": "rfm",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "customer-segmentation",
+                  "python",
+                  "rfm-analysis"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             }
@@ -660,12 +1061,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Best Practices on Recommendation Systems",
+                "homepage": "https://recommenders-team.github.io/recommenders/intro.html",
                 "id": 149430917,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-25T20:44:59Z",
+                "open_issues": 176,
                 "owner": "recommenders-team",
                 "repo": "recommenders",
-                "stars": 21863
+                "stars": 21862,
+                "topics": [
+                  "ai",
+                  "artificial-intelligence",
+                  "data-science",
+                  "deep-learning",
+                  "jupyter-notebook",
+                  "kubernetes",
+                  "machine-learning",
+                  "operationalization",
+                  "python",
+                  "ranking",
+                  "rating",
+                  "recommendation",
+                  "recommendation-algorithm",
+                  "recommendation-engine",
+                  "recommendation-system",
+                  "recommender",
+                  "tutorial"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -676,12 +1100,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python scikit for building and analyzing recommender systems",
+                "homepage": "http://surpriselib.com",
                 "id": 71709976,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-05-30T17:11:41Z",
+                "open_issues": 80,
                 "owner": "NicolasHug",
                 "repo": "Surprise",
-                "stars": 6810
+                "stars": 6810,
+                "topics": [
+                  "factorization",
+                  "machine-learning",
+                  "matrix",
+                  "recommendation",
+                  "recommender",
+                  "svd",
+                  "systems"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -692,12 +1129,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python implementation of LightFM, a hybrid recommendation algorithm.",
+                "homepage": null,
                 "id": 39940111,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-24T18:48:54Z",
+                "open_issues": 166,
                 "owner": "lyst",
                 "repo": "lightfm",
-                "stars": 5111
+                "stars": 5110,
+                "topics": [
+                  "learning-to-rank",
+                  "machine-learning",
+                  "matrix-factorization",
+                  "python",
+                  "recommender",
+                  "recommender-system"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -708,12 +1157,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library of metrics for evaluating recommender systems",
+                "homepage": null,
                 "id": 153137640,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-01-11T20:34:53Z",
+                "open_issues": 20,
                 "owner": "statisticianinstilettos",
                 "repo": "recmetrics",
-                "stars": 580
+                "stars": 580,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -724,12 +1178,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenRec is an open-source and modular library for neural network-inspired recommendation algorithms",
+                "homepage": "http://www.openrec.ai",
                 "id": 112496759,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-03-24T23:54:19Z",
+                "open_issues": 5,
                 "owner": "ylongqi",
                 "repo": "openrec",
-                "stars": 417
+                "stars": 417,
+                "topics": [
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "machine-learning",
+                  "ml",
+                  "recommendation",
+                  "recommendation-algorithm",
+                  "recommendation-system"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             }
@@ -747,12 +1214,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.",
+                "homepage": "https://facebook.github.io/prophet",
                 "id": 73872834,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T21:22:30Z",
+                "open_issues": 452,
                 "owner": "facebook",
                 "repo": "prophet",
-                "stars": 20375
+                "stars": 20379,
+                "topics": [
+                  "forecasting",
+                  "python",
+                  "r"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -763,12 +1239,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A unified framework for machine learning with time series",
+                "homepage": "https://www.sktime.net",
                 "id": 156401841,
                 "language": "Python",
-                "last_commit": "2026-08-28T20:23:29Z",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-08-29T00:42:04Z",
+                "open_issues": 2404,
                 "owner": "sktime",
                 "repo": "sktime",
-                "stars": 9970
+                "stars": 9972,
+                "topics": [
+                  "ai",
+                  "anomaly-detection",
+                  "changepoint-detection",
+                  "data-mining",
+                  "data-science",
+                  "forecasting",
+                  "hacktoberfest",
+                  "machine-learning",
+                  "scikit-learn",
+                  "sktime",
+                  "time-series",
+                  "time-series-analysis",
+                  "time-series-classification",
+                  "time-series-regression",
+                  "time-series-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -779,12 +1276,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A python library for user-friendly forecasting and anomaly detection on time series.",
+                "homepage": "https://unit8co.github.io/darts/",
                 "id": 148657183,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-21T08:30:55Z",
+                "open_issues": 229,
                 "owner": "unit8co",
                 "repo": "darts",
-                "stars": 9510
+                "stars": 9510,
+                "topics": [
+                  "anomaly-detection",
+                  "data-science",
+                  "deep-learning",
+                  "forecasting",
+                  "machine-learning",
+                  "python",
+                  "time-series"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -795,12 +1305,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatic extraction of relevant features from time series:",
+                "homepage": "http://tsfresh.readthedocs.io",
                 "id": 71996613,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-07-06T01:28:19Z",
+                "open_issues": 74,
                 "owner": "blue-yonder",
                 "repo": "tsfresh",
-                "stars": 9301
+                "stars": 9301,
+                "topics": [
+                  "data-science",
+                  "feature-extraction",
+                  "time-series"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -811,12 +1330,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Probabilistic time series modeling in Python",
+                "homepage": "https://ts.gluon.ai",
                 "id": 186872119,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-31T11:26:21Z",
+                "open_issues": 477,
                 "owner": "awslabs",
                 "repo": "gluonts",
-                "stars": 5232
+                "stars": 5232,
+                "topics": [
+                  "artificial-intelligence",
+                  "aws",
+                  "data-science",
+                  "deep-learning",
+                  "forecasting",
+                  "machine-learning",
+                  "mxnet",
+                  "neural-networks",
+                  "pytorch",
+                  "sagemaker",
+                  "time-series",
+                  "time-series-forecasting",
+                  "time-series-prediction",
+                  "timeseries",
+                  "torch"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -827,12 +1367,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightning ⚡️ fast forecasting with statistical and econometric models.",
+                "homepage": "https://nixtlaverse.nixtla.io/statsforecast",
                 "id": 431319532,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T04:24:18Z",
+                "open_issues": 155,
                 "owner": "Nixtla",
                 "repo": "statsforecast",
-                "stars": 4890
+                "stars": 4890,
+                "topics": [
+                  "arima",
+                  "automl",
+                  "baselines",
+                  "data-science",
+                  "econometrics",
+                  "ets",
+                  "exponential-smoothing",
+                  "fbprophet",
+                  "forecasting",
+                  "machine-learning",
+                  "mstl",
+                  "naive",
+                  "neuralprophet",
+                  "predictions",
+                  "prophet",
+                  "python",
+                  "seasonal-naive",
+                  "statistics",
+                  "theta",
+                  "time-series"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -843,12 +1409,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NeuralProphet: A simple forecasting package",
+                "homepage": "https://neuralprophet.com",
                 "id": 261086130,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-01-08T20:48:50Z",
+                "open_issues": 89,
                 "owner": "ourownstory",
                 "repo": "neural_prophet",
-                "stars": 4295
+                "stars": 4295,
+                "topics": [
+                  "artificial-intelligence",
+                  "autoregression",
+                  "deep-learning",
+                  "fbprophet",
+                  "forecast",
+                  "forecasting",
+                  "forecasting-algorithm",
+                  "forecasting-model",
+                  "machine-learning",
+                  "neural",
+                  "neural-network",
+                  "neuralprophet",
+                  "prediction",
+                  "prophet",
+                  "python",
+                  "pytorch",
+                  "seasonality",
+                  "time-series",
+                  "timeseries",
+                  "trend"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -859,12 +1451,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "STUMPY is a powerful and scalable Python library for modern time series analysis",
+                "homepage": "https://stumpy.readthedocs.io/en/latest/",
                 "id": 184809315,
                 "language": "Python",
-                "last_commit": "2026-08-27T02:09:53Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T01:57:05Z",
+                "open_issues": 79,
                 "owner": "stumpy-dev",
                 "repo": "stumpy",
-                "stars": 4149
+                "stars": 4149,
+                "topics": [
+                  "anomaly-detection",
+                  "dask",
+                  "data-science",
+                  "matrix-profile",
+                  "motif-discovery",
+                  "numba",
+                  "pattern-matching",
+                  "pydata",
+                  "python",
+                  "time-series-analysis",
+                  "time-series-data-mining",
+                  "time-series-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -875,12 +1485,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The machine learning toolkit for time series analysis in Python",
+                "homepage": "https://tslearn.readthedocs.io",
                 "id": 90264407,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-27T12:07:53Z",
+                "open_issues": 84,
                 "owner": "tslearn-team",
                 "repo": "tslearn",
-                "stars": 3174
+                "stars": 3174,
+                "topics": [
+                  "dtw",
+                  "dynamic-time-warping",
+                  "machine-learning",
+                  "machine-learning-algorithms",
+                  "machinelearning",
+                  "python",
+                  "time-series",
+                  "time-series-analysis",
+                  "time-series-classification",
+                  "time-series-clustering",
+                  "timeseries"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -891,12 +1518,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python package for Bayesian forecasting with object-oriented design and probabilistic models under the hood.",
+                "homepage": "https://orbit-ml.readthedocs.io/en/stable/",
                 "id": 232388106,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-22T22:21:47Z",
+                "open_issues": 59,
                 "owner": "uber",
                 "repo": "orbit",
-                "stars": 2070
+                "stars": 2071,
+                "topics": [
+                  "arima",
+                  "bayesian",
+                  "bayesian-methods",
+                  "bayesian-statistics",
+                  "changepoint",
+                  "exponential-smoothing",
+                  "forecast",
+                  "forecasting",
+                  "machine-learning",
+                  "orbit",
+                  "probabilistic",
+                  "probabilistic-programming",
+                  "pyro",
+                  "pystan",
+                  "python",
+                  "pytorch",
+                  "regression",
+                  "regression-models",
+                  "stan",
+                  "time-series"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -907,12 +1560,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A statistical library designed to fill the void in Python's time series analysis capabilities, including the equivalent of R's auto.arima function.",
+                "homepage": "https://www.alkaline-ml.com/pmdarima",
                 "id": 86715491,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-11-17T16:09:28Z",
+                "open_issues": 65,
                 "owner": "alkaline-ml",
                 "repo": "pmdarima",
-                "stars": 1734
+                "stars": 1734,
+                "topics": [
+                  "arima",
+                  "econometrics",
+                  "forecasting",
+                  "forecasting-models",
+                  "machine-learning",
+                  "pmdarima",
+                  "python",
+                  "sarimax",
+                  "time-series"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -923,12 +1591,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Temporian is an open-source Python library for preprocessing ⚡ and feature engineering 🛠 temporal data 📈 for machine learning applications 🤖",
+                "homepage": "https://temporian.readthedocs.io",
                 "id": 590126294,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-29T16:34:31Z",
+                "open_issues": 33,
                 "owner": "google",
                 "repo": "temporian",
-                "stars": 713
+                "stars": 713,
+                "topics": [
+                  "cpp",
+                  "feature-engineering",
+                  "python",
+                  "temporal-data",
+                  "time-series"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -939,12 +1618,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BATS and TBATS forecasting methods",
+                "homepage": null,
                 "id": 162722338,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-04-17T10:22:27Z",
+                "open_issues": 6,
                 "owner": "intive-DataScience",
                 "repo": "tbats",
-                "stars": 183
+                "stars": 183,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             }
@@ -962,12 +1646,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Survival analysis in Python",
+                "homepage": "lifelines.readthedocs.org",
                 "id": 12420595,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-07T01:40:07Z",
+                "open_issues": 297,
                 "owner": "CamDavidsonPilon",
                 "repo": "lifelines",
-                "stars": 2606
+                "stars": 2606,
+                "topics": [
+                  "cox-regression",
+                  "data-science",
+                  "maximum-likelihood",
+                  "python",
+                  "reliability-analysis",
+                  "statistics",
+                  "survival-analysis"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -978,12 +1675,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Survival analysis built on top of scikit-learn",
+                "homepage": null,
                 "id": 77409504,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T19:41:07Z",
+                "open_issues": 30,
                 "owner": "sebp",
                 "repo": "scikit-survival",
-                "stars": 1320
+                "stars": 1320,
+                "topics": [
+                  "machine-learning",
+                  "python",
+                  "scikit-learn",
+                  "survival-analysis"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -994,12 +1701,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source package for Survival Analysis modeling",
+                "homepage": "https://www.pysurvival.io/",
                 "id": 178483050,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-11T19:40:26Z",
+                "open_issues": 66,
                 "owner": "square",
                 "repo": "pysurvival",
-                "stars": 371
+                "stars": 371,
+                "topics": [
+                  "deep-learning",
+                  "machine-learning",
+                  "numpy",
+                  "python",
+                  "pytorch",
+                  "survival-analysis"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             }
@@ -1017,12 +1736,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fit Sparse Synthetic Control Models in Python",
+                "homepage": null,
                 "id": 151165530,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-03-26T18:53:02Z",
+                "open_issues": 19,
                 "owner": "microsoft",
                 "repo": "SparseSC",
-                "stars": 90
+                "stars": 90,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -1033,12 +1757,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A python module for the synthetic control method",
+                "homepage": null,
                 "id": 580586322,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-04T22:47:18Z",
+                "open_issues": 1,
                 "owner": "sdfordham",
                 "repo": "pysyncon",
-                "stars": 84
+                "stars": 84,
+                "topics": [
+                  "augsynth",
+                  "causal-inference",
+                  "synth",
+                  "synthetic-control-method"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -1049,12 +1783,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Synthetic Control Methods",
+                "homepage": "https://nppackages.github.io",
                 "id": 390752624,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-14T19:08:37Z",
+                "open_issues": 0,
                 "owner": "nppackages",
                 "repo": "scpi",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "prediction-intervals",
+                  "python",
+                  "r",
+                  "stata",
+                  "synthetic-control"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             }
@@ -1072,12 +1817,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Synthetic data generation for tabular data",
+                "homepage": "https://docs.sdv.dev/sdv",
                 "id": 133060053,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T18:02:05Z",
+                "open_issues": 161,
                 "owner": "sdv-dev",
                 "repo": "SDV",
-                "stars": 3551
+                "stars": 3551,
+                "topics": [
+                  "data-generation",
+                  "deep-learning",
+                  "gan",
+                  "gans",
+                  "generative-adversarial-network",
+                  "generative-ai",
+                  "generative-model",
+                  "generativeai",
+                  "machine-learning",
+                  "multi-table",
+                  "relational-datasets",
+                  "sdv",
+                  "synthetic-data",
+                  "synthetic-data-generation",
+                  "time-series"
+                ]
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             },
@@ -1088,12 +1854,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 665017082,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-06-22T08:37:14Z",
+                "open_issues": 2,
                 "owner": "EqualExperts",
                 "repo": "decoy",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
             }
@@ -1107,15 +1878,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:25:50.963Z",
+    "last_updated": "2026-08-29T04:57:07.932Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome machine learning libraries for marketing, including media mix models, multi touch attribution, causal inference and more",
+      "homepage": "http://www.station10.co.uk",
       "id": 676990791,
       "language": null,
+      "license": "MIT",
       "last_commit": "2024-05-01T11:06:06Z",
+      "open_issues": 2,
       "owner": "station-10",
       "repo": "awesome-marketing-machine-learning",
-      "stars": 145
+      "stars": 145,
+      "topics": [
+        "attribution",
+        "awesome-list",
+        "causal-inference",
+        "clv",
+        "machine-learning",
+        "marketing",
+        "media",
+        "mmm",
+        "mta",
+        "recommendation-system",
+        "synthetic-control",
+        "time-series-forecasting"
+      ]
     },
     "original_repository_sha": "3e51e6b44bf457b1c7df31ce8f852e6037073e59",
     "enhanced_repository": "enhansome/enhansome-marketing-machine-learning",
