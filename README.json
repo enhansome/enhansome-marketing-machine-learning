@@ -227,11 +227,11 @@
                 "id": 135584946,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-28T23:12:29Z",
-                "open_issues": 237,
+                "last_commit": "2026-08-29T07:52:56Z",
+                "open_issues": 239,
                 "owner": "py-why",
                 "repo": "dowhy",
-                "stars": 8290,
+                "stars": 8291,
                 "topics": [
                   "bayesian-networks",
                   "causal-inference",
@@ -264,7 +264,7 @@
                 "open_issues": 13,
                 "owner": "uber",
                 "repo": "causalml",
-                "stars": 5976,
+                "stars": 5978,
                 "topics": [
                   "causal-inference",
                   "incubation",
@@ -311,7 +311,7 @@
                 "open_issues": 173,
                 "owner": "pymc-labs",
                 "repo": "CausalPy",
-                "stars": 1181,
+                "stars": 1182,
                 "topics": [
                   "causal-inference",
                   "pymc",
@@ -559,8 +559,8 @@
                 "id": 1885237,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-27T18:27:55Z",
-                "open_issues": 2807,
+                "last_commit": "2026-08-29T13:22:51Z",
+                "open_issues": 2806,
                 "owner": "statsmodels",
                 "repo": "statsmodels",
                 "stars": 11598,
@@ -769,7 +769,7 @@
                 "open_issues": 428,
                 "owner": "pymc-labs",
                 "repo": "pymc-marketing",
-                "stars": 1250,
+                "stars": 1249,
                 "topics": [
                   "btyd",
                   "buy-till-you-die",
@@ -1070,7 +1070,7 @@
                 "open_issues": 176,
                 "owner": "recommenders-team",
                 "repo": "recommenders",
-                "stars": 21862,
+                "stars": 21863,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1138,7 +1138,7 @@
                 "open_issues": 166,
                 "owner": "lyst",
                 "repo": "lightfm",
-                "stars": 5110,
+                "stars": 5111,
                 "topics": [
                   "learning-to-rank",
                   "machine-learning",
@@ -1244,8 +1244,8 @@
                 "id": 156401841,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-29T00:42:04Z",
-                "open_issues": 2404,
+                "last_commit": "2026-08-29T12:21:59Z",
+                "open_issues": 2399,
                 "owner": "sktime",
                 "repo": "sktime",
                 "stars": 9972,
@@ -1314,7 +1314,7 @@
                 "open_issues": 74,
                 "owner": "blue-yonder",
                 "repo": "tsfresh",
-                "stars": 9301,
+                "stars": 9302,
                 "topics": [
                   "data-science",
                   "feature-extraction",
@@ -1376,7 +1376,7 @@
                 "open_issues": 155,
                 "owner": "Nixtla",
                 "repo": "statsforecast",
-                "stars": 4890,
+                "stars": 4891,
                 "topics": [
                   "arima",
                   "automl",
@@ -1822,7 +1822,7 @@
                 "id": 133060053,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T18:02:05Z",
+                "last_commit": "2026-08-29T13:54:50Z",
                 "open_issues": 161,
                 "owner": "sdv-dev",
                 "repo": "SDV",
@@ -1878,7 +1878,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:57:07.932Z",
+    "last_updated": "2026-08-29T14:02:18.773Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome machine learning libraries for marketing, including media mix models, multi touch attribution, causal inference and more",
