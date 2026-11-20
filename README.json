@@ -21,7 +21,7 @@
                 "open_issues": 14,
                 "owner": "DP6",
                 "repo": "Marketing-Attribution-Models",
-                "stars": 375,
+                "stars": 374,
                 "topics": [
                   "attribution-model",
                   "digital-marketing-attribution",
@@ -231,7 +231,7 @@
                 "open_issues": 187,
                 "owner": "py-why",
                 "repo": "dowhy",
-                "stars": 8409,
+                "stars": 8410,
                 "topics": [
                   "bayesian-networks",
                   "causal-inference",
@@ -290,7 +290,7 @@
                 "open_issues": 31,
                 "owner": "google",
                 "repo": "CausalImpact",
-                "stars": 1867,
+                "stars": 1868,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
@@ -307,8 +307,8 @@
                 "id": 539537904,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T12:23:17Z",
-                "open_issues": 175,
+                "last_commit": "2026-11-20T14:16:46Z",
+                "open_issues": 180,
                 "owner": "pymc-labs",
                 "repo": "CausalPy",
                 "stars": 1215,
@@ -394,7 +394,7 @@
                 "open_issues": 7,
                 "owner": "bookingcom",
                 "repo": "upliftml",
-                "stars": 340,
+                "stars": 339,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
@@ -455,7 +455,7 @@
                 "open_issues": 1,
                 "owner": "CamDavidsonPilon",
                 "repo": "lifetimes",
-                "stars": 1477,
+                "stars": 1476,
                 "topics": [
                   "data-science",
                   "python",
@@ -559,11 +559,11 @@
                 "id": 1885237,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-19T17:36:57Z",
-                "open_issues": 2741,
+                "last_commit": "2026-11-20T17:12:06Z",
+                "open_issues": 2752,
                 "owner": "statsmodels",
                 "repo": "statsmodels",
-                "stars": 11757,
+                "stars": 11759,
                 "topics": [
                   "count-model",
                   "data-analysis",
@@ -594,11 +594,11 @@
                 "id": 131646318,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-18T21:52:00Z",
+                "last_commit": "2026-11-19T21:11:25Z",
                 "open_issues": 422,
                 "owner": "py-why",
                 "repo": "EconML",
-                "stars": 4858,
+                "stars": 4861,
                 "topics": [
                   "causal-inference",
                   "causality",
@@ -633,7 +633,7 @@
                 "open_issues": 37,
                 "owner": "facebookincubator",
                 "repo": "GeoLift",
-                "stars": 270,
+                "stars": 271,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:50.963Z"
@@ -700,7 +700,7 @@
                 "open_issues": 1,
                 "owner": "google",
                 "repo": "trimmed_match",
-                "stars": 72,
+                "stars": 73,
                 "topics": [
                   "abtest",
                   "causal-inference",
@@ -735,7 +735,7 @@
                 "open_issues": 116,
                 "owner": "facebookexperimental",
                 "repo": "Robyn",
-                "stars": 1537,
+                "stars": 1538,
                 "topics": [
                   "adstocking",
                   "budget-allocation",
@@ -765,11 +765,11 @@
                 "id": 467144767,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T15:36:02Z",
-                "open_issues": 508,
+                "last_commit": "2026-11-20T08:47:56Z",
+                "open_issues": 506,
                 "owner": "pymc-labs",
                 "repo": "pymc-marketing",
-                "stars": 1309,
+                "stars": 1310,
                 "topics": [
                   "btyd",
                   "buy-till-you-die",
@@ -801,7 +801,7 @@
                 "open_issues": 123,
                 "owner": "google",
                 "repo": "lightweight_mmm",
-                "stars": 1054,
+                "stars": 1055,
                 "topics": [
                   "bayesian",
                   "data-science",
@@ -828,7 +828,7 @@
                 "open_issues": 5,
                 "owner": "sibylhe",
                 "repo": "mmm_stan",
-                "stars": 405,
+                "stars": 404,
                 "topics": [
                   "bayesian-regression",
                   "constrained-regression",
@@ -938,7 +938,7 @@
                 "open_issues": 42,
                 "owner": "retentioneering",
                 "repo": "retentioneering-tools",
-                "stars": 949,
+                "stars": 948,
                 "topics": [
                   "agent-skills",
                   "analytics-mcp",
@@ -1070,7 +1070,7 @@
                 "open_issues": 237,
                 "owner": "recommenders-team",
                 "repo": "recommenders",
-                "stars": 22005,
+                "stars": 22008,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1109,7 +1109,7 @@
                 "open_issues": 83,
                 "owner": "NicolasHug",
                 "repo": "Surprise",
-                "stars": 6828,
+                "stars": 6829,
                 "topics": [
                   "factorization",
                   "machine-learning",
@@ -1138,7 +1138,7 @@
                 "open_issues": 166,
                 "owner": "lyst",
                 "repo": "lightfm",
-                "stars": 5121,
+                "stars": 5120,
                 "topics": [
                   "learning-to-rank",
                   "machine-learning",
@@ -1223,7 +1223,7 @@
                 "open_issues": 473,
                 "owner": "meta",
                 "repo": "prophet",
-                "stars": 20492,
+                "stars": 20493,
                 "topics": [
                   "forecasting",
                   "python",
@@ -1244,11 +1244,11 @@
                 "id": 156401841,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-17T14:21:35Z",
-                "open_issues": 2837,
+                "last_commit": "2026-11-20T14:59:58Z",
+                "open_issues": 2829,
                 "owner": "sktime",
                 "repo": "sktime",
-                "stars": 10099,
+                "stars": 10100,
                 "topics": [
                   "ai",
                   "anomaly-detection",
@@ -1281,11 +1281,11 @@
                 "id": 148657183,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T10:31:42Z",
-                "open_issues": 236,
+                "last_commit": "2026-11-20T09:37:27Z",
+                "open_issues": 228,
                 "owner": "unit8co",
                 "repo": "darts",
-                "stars": 9591,
+                "stars": 9594,
                 "topics": [
                   "anomaly-detection",
                   "data-science",
@@ -1336,7 +1336,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-13T12:42:28Z",
-                "open_issues": 498,
+                "open_issues": 499,
                 "owner": "awslabs",
                 "repo": "gluonts",
                 "stars": 5263,
@@ -1376,7 +1376,7 @@
                 "open_issues": 197,
                 "owner": "Nixtla",
                 "repo": "statsforecast",
-                "stars": 4980,
+                "stars": 4981,
                 "topics": [
                   "arima",
                   "automl",
@@ -1414,11 +1414,11 @@
                 "id": 261086130,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-27T22:28:08Z",
-                "open_issues": 91,
+                "last_commit": "2026-11-19T23:06:14Z",
+                "open_issues": 92,
                 "owner": "ourownstory",
                 "repo": "neural_prophet",
-                "stars": 4313,
+                "stars": 4312,
                 "topics": [
                   "artificial-intelligence",
                   "autoregression",
@@ -1457,10 +1457,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-19T02:35:34Z",
-                "open_issues": 83,
+                "open_issues": 82,
                 "owner": "stumpy-dev",
                 "repo": "stumpy",
-                "stars": 4174,
+                "stars": 4173,
                 "topics": [
                   "anomaly-detection",
                   "dask",
@@ -1490,11 +1490,11 @@
                 "id": 90264407,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-19T15:45:26Z",
-                "open_issues": 97,
+                "last_commit": "2026-11-20T15:22:03Z",
+                "open_issues": 95,
                 "owner": "tslearn-team",
                 "repo": "tslearn",
-                "stars": 3194,
+                "stars": 3193,
                 "topics": [
                   "dtw",
                   "dynamic-time-warping",
@@ -1530,7 +1530,7 @@
                 "open_issues": 60,
                 "owner": "uber",
                 "repo": "orbit",
-                "stars": 2083,
+                "stars": 2082,
                 "topics": [
                   "arima",
                   "bayesian",
@@ -1572,7 +1572,7 @@
                 "open_issues": 71,
                 "owner": "alkaline-ml",
                 "repo": "pmdarima",
-                "stars": 1742,
+                "stars": 1741,
                 "topics": [
                   "arima",
                   "econometrics",
@@ -1603,7 +1603,7 @@
                 "open_issues": 38,
                 "owner": "google",
                 "repo": "temporian",
-                "stars": 715,
+                "stars": 714,
                 "topics": [
                   "cpp",
                   "feature-engineering",
@@ -1658,7 +1658,7 @@
                 "open_issues": 323,
                 "owner": "CamDavidsonPilon",
                 "repo": "lifelines",
-                "stars": 2623,
+                "stars": 2621,
                 "topics": [
                   "cox-regression",
                   "data-science",
@@ -1687,7 +1687,7 @@
                 "open_issues": 31,
                 "owner": "sebp",
                 "repo": "scikit-survival",
-                "stars": 1334,
+                "stars": 1333,
                 "topics": [
                   "machine-learning",
                   "python",
@@ -1713,7 +1713,7 @@
                 "open_issues": 66,
                 "owner": "square",
                 "repo": "pysurvival",
-                "stars": 372,
+                "stars": 371,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -1829,7 +1829,7 @@
                 "open_issues": 149,
                 "owner": "sdv-dev",
                 "repo": "SDV",
-                "stars": 3607,
+                "stars": 3606,
                 "topics": [
                   "data-generation",
                   "deep-learning",
@@ -1881,7 +1881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T17:42:33.399Z",
+    "last_updated": "2026-11-20T17:20:11.553Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome machine learning libraries for marketing, including media mix models, multi touch attribution, causal inference and more",
